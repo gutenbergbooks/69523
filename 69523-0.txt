@@ -1,0 +1,3771 @@
+﻿The Project Gutenberg eBook of Das Friedensfest, by Gerhart Hauptmann
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: Das Friedensfest
+
+Author: Gerhart Hauptmann
+
+Release Date: December 11, 2022 [eBook #69523]
+
+Language: German
+
+Produced by: Peter Becker, Reiner Ruf, and the Online Distributed
+             Proofreading Team at https://www.pgdp.net (This file was
+             produced from images generously made available by The
+             Internet Archive)
+
+*** START OF THE PROJECT GUTENBERG EBOOK DAS FRIEDENSFEST ***
+
+
+  ####################################################################
+
+                     Anmerkungen zur Transkription
+
+  Der vorliegende Text wurde anhand der Buchausgabe von 1894 so weit
+  wie möglich originalgetreu wiedergegeben. Typographische Fehler
+  wurden stillschweigend korrigiert. Ungewöhnliche und heute nicht mehr
+  verwendete Schreibweisen bleiben gegenüber dem Original unverändert;
+  fremdsprachliche Ausdrücke wurden nicht korrigiert.
+
+  Der Ausdruck ‚et cetera‘ wird im ursprünglichen Text mit Hilfe
+  der Tironischen Note ‚Et‘ dargestellt. Da diese Note in vielen
+  Zeichensätzen nicht enthalten ist, wird in der vorliegenden Fassung
+  die im Deutschen gebräuchliche Abkürzung ‚etc.‘ verwendet.
+
+  Das Original wurde in Frakturschrift gesetzt; besondere
+  Schriftschnitte werden im vorliegenden Text mit Hilfe der folgenden
+  Sonderzeichen gekennzeichnet:
+
+        Regieanweisungen: _Unterstriche_ (kleinere Schriftgröße)
+        Fettdruck:        =Gleichheitszeichen=
+        gesperrt:         +Pluszeichen+
+        Antiqua:          ~Tilden~
+
+  ####################################################################
+
+
+
+
+                           Das Friedensfest.
+
+                            [Illustration]
+
+
+
+
+        Von =Gerhart Hauptmann= erschienen im gleichen Verlage:
+
+
+                         =Vor Sonnenaufgang.=
+
+                            Soziales Drama.
+
+                              6. Auflage.
+
+
+                          =Einsame Menschen.=
+
+                                Drama.
+
+                              3. Auflage.
+
+
+                             =Die Weber.=
+
+                 Schauspiel aus den vierziger Jahren.
+
+                              6. Auflage.
+
+
+                          =College Crampton.=
+
+                               Comödie.
+
+                              2. Auflage.
+
+
+                           =Der Biberpelz.=
+
+                         +Eine Diebscomödie.+
+
+                              2. Auflage.
+
+
+                    Jeder Band eleg. geh. Mark 2.--
+                      „     „  eleg. geb.  „   3.--
+
+
+                 =Der Apostel.= -- =Bahnwärter Thiel.=
+
+                        Novellistische Studien.
+
+                Geheftet Mark 1,50, gebunden Mark 2,50.
+
+
+                              =Hannele.=
+
+                         +Eine Traumdichtung.+
+
+                           Reich illustrirt.
+
+         Geheftet Mark 5.--, in Prachtband gebunden Mark 7.50.
+
+
+
+
+                           GERHART HAUPTMANN.
+
+                             [Illustration]
+
+                                  Das
+                             Friedensfest.
+
+                    =Eine Familienkatastrophe.=
+
+                            Bühnendichtung.
+
+
+                        Sie finden in keinem Trauerspiele Handlung, als
+                        wo der Liebhaber zu Füßen fällt ⁊c. ...
+
+                        Es hat ihnen nie beifallen wollen, daß auch
+                        jeder innere Kampf von Leidenschaften, jede
+                        Folge von verschiedenen Gedanken, wo eine die
+                        andere aufhebt, eine Handlung sei; vielleicht
+                        weil sie viel zu mechanisch denken und fühlen,
+                        als daß sie sich irgend einer Thätigkeit dabei
+                        bewußt wären. -- Ernsthaft sie zu widerlegen,
+                        wurde eine unnütze Mühe sein.
+
+                                                    +Lessing.+
+                                           Abhandlungen über die Fabel.
+
+
+                            [Illustration]
+
+                            =Berlin 1894.=
+
+                         +S. Fischer, Verlag.+
+
+
+
+
+                   Den Bühnen gegenüber Manuscript.
+
+
+
+
+  =Dem Dichter=
+
+  =Theodor  Fontane=
+
+  ehrfurchtsvoll
+
+  zugeeignet.
+
+
+
+
+Handelnde Menschen.
+
+
+ =~Dr. med.~ Fritz Scholz,= 68 Jahre alt.     } Soweit möglich,
+ =Minna Scholz,= dessen Ehefrau, 46 Jahre alt.} muß in
+ =Auguste,= 29 Jahre alt }                    } den Masken
+ =Robert,= 28 Jahre alt  } deren Kinder.      } eine Familienähnlichkeit
+ =Wilhelm,= 26 Jahre alt }                    } zum Ausdruck
+                                              } kommen.
+ =Frau Marie Buchner,= 42 Jahre alt.
+ =Ida,= ihre Tochter, 20 Jahre alt.
+ =Friebe,= Hausknecht, 50 Jahre alt.
+
+                   *       *       *       *       *
+
+Die Vorgänge dieser Dichtung spielen sich ab an einem Weihnachtsabend
+der 80er Jahre in einem einsamen Landhaus auf dem Schützenhügel bei
+Erkner. (Mark Brandenburg).
+
+[Illustration]
+
+
+
+
+Der Schauplatz
+
+
+_aller drei Vorgänge ist eine hohe, geräumige Halle, weiß getüncht,
+mit alterthümlichen Bildern, wie auch mit Geweihen und Thierköpfen
+aller Art behangen. Ein Kronleuchter aus Hirschgeweihen in der Mitte
+der Balkendecke angebracht, ist mit frischen Lichtern besteckt.
+Mitten in der Hinterwand ein nach innen vorspringendes Gehäuse mit
+Glasthür durch die man das schwere, geschnitzte Eichenportal des Hauses
+erblicken kann. Oben auf dem Gehäuse befindet sich ausgestopft ein
+balzender Auerhahn. Seitlich über dem Gehäuse rechts und links je ein
+Fenster, befroren und zum Theil mit Schnee verweht._
+
+_Die Wand rechts weist einen offenen, thorartigen Bogen auf, der nach
+der Treppe in die oberen Stockwerke führt. Von zwei niedrigen Thüren
+derselben Wand führt die eine nach dem Keller, die andere zur Küche.
+Die gegenüberliegende Wand hat ebenfalls zwei Thüren, welche beide
+in ein und dasselbe Zimmer führen. Zwischen diesen Thüren eine alte
+Standuhr, auf deren Dach ein ausgestopfter Kauz hockt. Die Möblirung
+des Raumes besteht aus alten, schweren Eichenholztischen und Stühlen.
+Parallel mit der Seitenwand, rechts vom Zuschauer eine weiß gedeckte
+Tafel. Rechts im Vordergrund ein eisernes Oefchen mit längs der Wand
+hingehender Rohrleitung. Alle Thüren sind bunt, die Thürfüllungen mit
+primitiven Malereien, Papageien ⁊c. darstellend versehen._
+
+
+
+
+Erster Vorgang.
+
+
+_Die Halle ist mit grünen Reisern ausgeschmückt. Auf den Steinfliesen
+liegt ein Christbaum ohne Fuß. +Friebe+ zimmert auf der obersten
+Kellerstufe einen Fuß zurecht. Einander gegenüberstehend zu beiden
+Seiten der Tafel beschäftigen sich Frau +Buchner+ und Frau +Scholz+
+damit, bunte Wachslichte in den dazu gehörigen Tüllen zu befestigen.
+Frau Buchner ist eine gesundaussehende, gut genährte, freundlich
+blickende Person, einfach, solid und sehr adrett gekleidet. Schlichte
+Haartracht. Ihre Bewegungen sind bestimmt, aber vollständig
+ungezwungen. Ihr ganzes Wesen drückt eine ungewöhnliche Herzlichkeit
+aus, die durchaus echt, auch wenn die Art, mit der sie sich kund
+giebt, zuweilen den Eindruck der Ziererei macht. Ihre Sprache ist
+geflissentlich rein, in Momenten des Affects deklamatorisch. Ein Hauch
+der Zufriedenheit und des Wohlbehagens scheint von ihr auszugehen.
+-- Anders Frau Scholz: Sie ist eine über ihre Jahre hinaus gealterte
+Person mit den beginnenden Gebrechen des Greisenalters. Ihre
+Körperformen zeigen eine ungesunde Fettansammlung. Ihre Hautfarbe
+ist weißlichgrau. Ihre Toilette ist weniger als schlicht. Ihr Haar
+ist grau und nicht zusammengerafft; sie trägt eine Brille. Frau
+Scholz ist schußrig in ihren Bewegungen, ruhelos, hat eine zumeist
+weinerliche oder winsliche Sprechweise und erregt den Eindruck
+andauernder Aufgeregtheit. Während Frau Buchner nur für andere zu
+existiren scheint, hat Frau Scholz vollauf mit sich selbst zu thun.
+-- Auf der Tafel zwei fünfarmige, mit Lichtern besteckte Girandolen.
+Weder der Kronleuchter noch die Girandolen sind angesteckt. Brennende
+Petroleumlampe._
+
++Friebe+ _(führt mit dem Beil einen Schlag)_: Da jeht mer ooch keen
+Schlag nich fehl.
+
++Frau Scholz+: -- ffff!!! Ich kann’s doch aber nich hören, Friebe! wie
+oft hab’ ich Ihn’n schon ... wie leicht kann Ih’n das Beil abfahren.
+Auf Steinen hackt man nich Holz!
+
++Friebe+: Da jarantir ick for. Wofor wär ick d’nn sonst zehn Jahre
+Rejimenter jewesen?
+
++Frau Buchner+: Regimenter?
+
++Frau Scholz+: Er war Vorarbeiter in den königlichen Forsten.
+
++Friebe+: Keen -- _(er schlägt zu)_ -- Schlag da -- ä! _(er schlägt)_
+komm ich for uff.
+
+_(Er steigt herauf, betrachtet, was er gemacht hat, bei der Lampe und
+befestigt dann den Christbaum, so daß er aufrecht steht. Friebe ist
+klein, bereits ein wenig gebeugt, obeinig und hat eine Glatze. Sein
+kleines, bewegliches Affengesichtchen ist unrasirt. Kopfhaare und
+Bartstoppeln spielen in’s Gelblichgraue. Er ist ein Allerweltsbastler.
+Der Rock, welchen er trägt, ein Ding, das von Putzpulver, Oel,
+Stiefelwichse, Staub ⁊c. starrt, ist für einen doppelt so großen
+Mann berechnet, deshalb die Aermel aufgekrempt, die Rockflügel
+weit übereinander gelegt. Er trägt eine braune, verhältnißmäßig
+saubre Hausknechtsschürze, unter welcher er von Zeit zu Zeit eine
+Schnupftabacksdose hervorzieht, um mit Empfindung zu schnupfen. Der
+Baum ist befestigt, Friebe hat ihn auf die Tafel gehoben, steht
+davor und betrachtet ihn)._ Een janzet -- schönet -- richtijet --
+Tannenbäumken! _(mit wegwerfender Ueberlegenheit zu den Frauen
+hinüber)_ ’t is woll jar keens, wat?
+
++Frau Buchner+: Als ehemaliger Forstmann müssen Sie ja das wohl
+unterscheiden können.
+
++Friebe+: Na jewiß doch, det wär ja noch verrückter! was de nu de
+Fichte is ....
+
++Frau Scholz+ _(unterbricht ihn ungeduldig)_: Wir dürfen uns beileibe
+nich aufhalten Friebe. Meine Tochter hat extra gesagt: Daß Du mir
+Frieben schickst.
+
++Friebe+: Na .... i! .... meinswejen doch _(mit einer wegwerfenden
+Handbewegung ab durch die Küchenthür.)_
+
++Frau Buchner+: An dem habt Ihr wohl was?
+
++Frau Scholz+: I warum nich gar! ’n ganz verdrehter Zwickel.
+Wenn nich mei Mann .... na sehen Se, so war mei Mann; diese alte
+Schnupftabacknase, die war nu für ihn, die mußt’ er den ganzen Tag um
+sich haben, sonst war ihm nich wohl. Ein zu merkwürdiger Mann!
+
++Auguste+ _(in Hast und Bestürzung von draußen herein. Innen angelangt
+schlägt sie die Glasthür heftig in’s Schloß und stemmt sich dagegen,
+wie um Jemand den Eintritt zu verwehren.)_
+
++Frau Scholz+ _(auf’s heftigste erschrocken schnell nach einander)_: O
+Gottogottogott!!!
+
++Frau Buchner+: -- Ja -- was ...?
+
+_(Auguste ist lang aufgeschossen und +auffallend+ mager, ihre
+Toilette ist hochmodern und geschmacklos. Pelzjacke, Pelzbarrett,
+Muff. Gesicht und Füße sind lang; das Gesicht scharf mit schmalen
+Lippen, die fest aufeinander passen und Zügen der Verbitterung. Sie
+trägt eine Lorgnette. Mit der Aufgeregtheit der Mutter verbindet sie
+ein pathologisch offensives Wesen. Diese Gestalt muß gleichsam eine
+Atmosphäre von Unzufriedenheit, Mißbehagen und Trostlosigkeit um sich
+verbreiten.)_
+
++Auguste+: Draußen .... meiner Seele .... es ist Jemand hinter mir
+hergekommen.
+
++Frau Buchner+ _(die Uhr ziehend)_: Wilhelm vielleicht schon -- nein,
++doch+ nicht. Der Zug kann noch nicht da sein, _(zu Auguste)_ warten
+Sie doch mal! _(sie greift nach der Thürklinke, um sie zu öffnen)._
+
++Auguste+: Nich doch, nich doch!
+
++Frau Buchner+: Sie sind nervööös, liebes Kind, _(sie geht durch die
+Glasthür und öffnet das Außenportal. Ein wenig zaghaft)_ Ist Jemand
+hier? -- _(resolut)_ Ist Jemand hier? _(Pause, keine Antwort.)_
+
++Frau Scholz+ _(erbost)_: Großartig wirklich -- Ich dächte ma hätte
+gerade genug Aufregung. Man kann ja den Tod davon haben. Was Du och
+immer hast.
+
++Auguste+: Haben! haben! _(batzig)_ was ich nur immer haben soll?!
+
++Frau Scholz+: Du bist ja recht liebenswürdig zu deiner Mutter!
+
++Auguste+: Ach, meinswegen! -- soll man sich etwa nicht fürchten, wenn
+man .... im Stockfinstern -- mutterseelenallein ....
+
++Frau Buchner+ _(die Hände von rückwärts um ihre Taille legend,
+begütigend)_: Hitzkopf, Hitzkopf! -- wer wird denn immer gleich soo
+sein?! -- Kommen Sie _(ist ihr beim Ablegen behülflich)_ so -- sehen
+Sie!?
+
++Auguste+: Ach Frau Buchner, ’s is’ auch wahr!
+
++Frau Buchner+: Hört mal, Herrschaften! vier lange Tage sind wir nun
+schon bei Euch. Ich dächte .... wollt Ihr mich nicht Du nennen? --
+ja?! -- schön! also .... _(umarmt und küßt Auguste, desgleichen Frau
+Scholz)._
+
++Frau Scholz+ _(bevor sie die Umarmung entgegennimmt)_: Wart nur wart,
+ich habe Wachshände.
+
++Frau Buchner+ _(zu Auguste, welche an das Oefchen getreten ist, um
+sich zu wärmen)_: Gelt, jetzt ist Dir schon gemüthlicher? -- war die
+Bescheerung hübsch?
+
++Auguste+: Na, ich geh jedenfalls nicht mehr hin. Schlechte Luft, eine
+Hitze zum Umkommen.
+
++Frau Buchner+: Hat der Herr Pastor schön gesprochen?
+
++Auguste+: So viel steht fest: wenn ich arm wäre, ich hätte auf die
+Rede des Großmann hin .... wahrhaftig den ganzen Bettel hätte ich ihnen
+vor die Füße geschmissen.
+
++Frau Buchner+: Es ist aber doch ein großer Segen für die armen Leute.
+
+_(Man hört hinter der Scene durch eine helle, schöne Frauenstimme
+gesungen:)_
+
+    [1] „Wenn im Haag der Lindenbaum
+    Wieder blüht,
+    Huscht der alte Frühlingstraum
+    Durch mein treu Gemüth.“
+
+  [1] Herzenstestament. Komponirt von +Max Marschalk+.
+
+
+_(Ida tritt ein von der Treppe her. Sie ist zwanzig Jahre alt und
+trägt ein schlichtes, schwarzes Wollkleid. Sie hat eine schöne, volle
+Gestalt, sehr kleinen Kopf und trägt das lange, gelbe Haar bei ihrem
+ersten Auftreten offen. In ihrem Wesen liegt etwas Stillvergnügtes,
+eine verschleierte Heiterkeit und Glückszuversicht; demgemäß ist der
+Ausdruck ihres klugen Gesichts meist heiter, geht aber auch mitunter
+plötzlich in einen milden Ernst über oder zeigt spontan tiefes
+Versonnensein.)_
+
++Ida+ _(ein Handtuch um die Schultern gelegt, einige Cartons auf dem
+Arm)_: Es kam doch Jemand?
+
++Frau Scholz+: Auguste hat uns ’n schönen Schreck eingejagt.
+
++Ida+ _(rückwärts nach der Treppe deutend)_: Da oben ist’s auch recht
+ungemüthlich; _(lachend)_ ich hab gemacht, daß ich runter kam.
+
++Frau Scholz+: Aber Kindel! über Dir wohnt ja jetzt noch Robert.
+
++Ida+ _(stellt die Cartons auf den Tisch; öffnet sie und entnimmt ihnen
+einige Gegenstände)_: Wenn auch! der ganze Stock ist doch immer +leer+.
+
++Frau Buchner+: Dein Haar müßte doch nun bald trocken sein, höre?
+
++Ida+ _(den Kopf anmuthig wendend und zurückwerfend)_: Fühl mal!
+
++Frau Buchner+ _(thut es)_: O bewahre! -- du hätt’st zeitiger baden
+sollen, Kind.
+
++Ida+: Was die alte Mähne doch für Mühe macht, eine ganze halbe Stunde
+hab ich am Ofen gehockt. _(sie hat einem der Cartons eine gelbseidne
+Börse entnommen, die sie Augusten hinhält.)_ Die Farbe ist nett, wie?
+’S is ja nur so ein kleines Späßchen. Hat er schon manchmal Börsen
+gehabt?
+
++Auguste+ _(über ihr Peluchejaquet hinweg, an dem sie herumreinigt,
+achselzuckend)_: Weiß nicht _(sie bringt ihre kurzsichtigen Augen
+prüfend in nächste Nähe der Börse)_. Bischen sehr locker im Muster
+_(sogleich wieder in ihre vorige Arbeit vertieft)_. Der Peluche ist hin.
+
++Ida+ _(ein Kistchen Cigarren aufbauend)_: Ich freu mich recht! -- daß
+Ihr nur nie einen Baum geputzt habt --?
+
++Auguste+: Wenn man’s recht bedenkt: eigentlich ist das doch auch
+nichts für Erwachsene.
+
++Frau Scholz+: Nie! da hätt ich ihm nur kommen sollen, mei Mann hätt
+mich schöne gestenzt. Bei meinen seligen Eltern .... ja wenn ich denke
+.... was war das für ein scheeenes Familienleben! Kein Weihnachten
+ohne Baum _(gleichsam Gang und Maniren des Vaters copirend)_, wenn der
+Vater so am Abend aus dem Bureau kam und die +schööö+nen Lehmannschen
+Pfefferkuchen mitbrachte! _(sie bringt Daumen und Zeigefinger, als ob
+sie ein Stückchen dieses superben Kuchens damit hielte, in die Nähe
+des Mundes)_, ach ja, das sind vergangene Zeiten! +Mei+ Mann, -- der
+aß nich mal Mittags mit uns zusammen. Er wohnte oben, wir unten; der
+reine Einsiedler. Wollte man was von ihm, dann mußte man sich weeß Gott
+hinter Frieben stecken.
+
++Auguste+ _(am Ofen, wo sie anlegt)_: Ach, red doch nicht immer so!
+
++Frau Scholz+: Heiz Du lieber nich so unsinnig.
+
++Auguste+: Ja, soll’s denn nicht warm werden?
+
++Frau Scholz+: Die ganze Hitze fliegt ja heut zum Schornstein ’naus.
+
++Auguste+ _(unschlüssig, erbost)_: Ja, soll denn nu nicht angelegt
+werden?
+
++Frau Scholz+: Laß mich zufrieden!
+
++Auguste+ _(wirft die Kohlenschaufel geräuschvoll in den Kasten)_: Na,
+dann nicht! _(wüthend links ab)._
+
++Ida+: Ach, Gustchen, bleibt da! _(zu Fr. Scholz)_ paß auf, ich werd’
+sie schon wieder fidel machen _(ihr nach, ab.)_
+
++Frau Scholz+ _(resignirt)_: So sind meine Kinder alle! -- nein, so ein
+Mädel wirklich! -- und kein Halten. Bald möcht’ se das, bald jen’s.
+-- Da fällt’s ihr uffemal ein .... da muß se lernen. Dann steckt se
+oben und red wochenlang ke Wort -- dann kommt se sich wieder mal ganz
+überflüssig vor. -- Ach Du mein Gott ja, Du bist zu beneiden! So’n
+liebes Dingelchen wie +Deine+ Tochter is ....
+
++Frau Buchner+: Aber +Gustchen+ doch +auch+.
+
++Frau Scholz+: So allerliebst, wie sie Clavier spielt, und diese
+reizende Stimme! wie gern +ich+ so ein paar +Töne+ höre! ....
+
++Frau Buchner+: Warum spielst Du denn garnicht?
+
++Frau Scholz+: I! da käm ich scheen an, da wäre mein bischen Ruhe
+vollends hin. Auguste ist ja +so+ nervös ....! gerade wie ihr Vater,
+den konnte man auch jagen mit dem Clavierspiel.
+
++Frau Buchner+: Deinen +Wilhelm+ solltest Du jetzt spielen hören; +der+
+hat sich vervollkommnet! -- was wäre denn Ida ohne +ihn+? von +ihm hat+
+sie ja doch alles gelernt, was sie kann.
+
++Frau Scholz+: Ach ja, Du sagtest’s ja schon. Talentvoll ist er; davon
+is nicht die Rede. Es war ’ne Lust, ihn zu unterrichten.
+
++Frau Buchner+: Ach und er denkt mit solcher Rührung an die Zeit
+zurück, wo sein Muttelchen ihm die Anfangsgründe beibrachte.
+
++Frau Scholz+: So?! mein Gott ja, schöne Zeiten waren das ja auch. --
+... Damals dacht ich: -- ... Alles kommt anders .... -- es regt mich
+doch sehr auf.
+
++Frau Buchner+: Es regt Dich .... was?
+
++Frau Scholz+: Nu, daß er kommt; wie sieht er denn jetzt eigentlich so
+aus?
+
++Frau Buchner+: Gut -- dick -- gesund -- Du wirst Dich freuen über
+Deinen Sohn.
+
++Frau Scholz+: Ich muß mich wirklich wundern, daß der Junge kommt. Mei
+Herz hat mir manchmal richtig weh gethan; und was ich blos für Papier
+verschrieben hab’. Nich mal geantwortet hat er seiner alten Mutter.
+Wie hast Du ihn nur dazu gebracht? das kann ich nich +begreifen+, das
++kann+ ich nich begreifen.
+
++Frau Buchner+: Ich? o nein, Ida hat das über ihn vermocht.
+
++Frau Scholz+: Robert kümmert sich ja auch nicht viel um uns, aber er
+kommt doch wenigstens alle Jahr einmal um die Weihnachtszeit ein paar
+Tage. Das lobt man sich doch! aber Wilhelm .... sechs volle Jahre ist
+er nich hiergewesen: er und mein Mann sechs volle Jahre! Kommt sie denn
+mit ihm aus?
+
++Frau Buchner+: Ida? sehr gut, in jeder Hinsicht.
+
++Frau Scholz+: Das ist aber doch zu wunderlich Du kannst Dir nämlich
+nich denken, +wie+ verschlossen der Junge immer war, ganz wie der
+Vater. Keinen Spielkameraden, keinen Schulfreund, kein Nichts hatte er.
+
++Frau Buchner+: Ja, ja, so war er anfänglich auch uns gegenüber. --
+Er wollte durchaus nicht anders als zu den Clavierstunden unser Haus
+betreten.
+
++Frau Scholz+: Na und dann is er doch gekommen?
+
++Frau Buchner+: Das heißt .... ja. Er sagte; wir sollten ihn nur
+vorläufig in Ruhe lassen, und wenn er so weit wäre, dann würde er schon
+selbst kommen. Wir waren so vernünftig, ihm seinen Willen zu lassen,
+und richtig, nachdem wir ein halbes Jahr gewartet -- eigentlich schon
++nicht mehr+ gewartet -- kam er. Von da ab Tag für Tag. Da ist es denn
+nach und nach so ganz anders geworden.
+
++Frau Scholz+: Ihr müßt hexen können. Die Verlobung +allein+ schon ist
+ja ein ganz unbegreifliches Wunder für sich.
+
++Frau Buchner+: Mit Künstlern muß man umzugehen wissen. Ich hab’s
+gelernt, -- mein seliger Mann war auch einer.
+
++Frau Scholz+: Und -- die -- Geschichte mit -- Vater? -- hat er Euch
+auch in -- diese Geschichte eingeweiht?
+
++Frau Buchner+: N--ein liebe Freundin. -- Siehst Du, das ist der
+allereinzigste Punkt, das ist .... In diesem Punkt hat er sich noch
+nicht überwinden können. Es läge ja nichts daran, aber Du kannst mir
+glauben, er leidet an der Erinnerung furchtbar. Bis auf den heutigen
+Tag leidet er. Nicht am wenigsten freilich dadurch, daß er die Sache
+geheim hält. Jedenfalls muß er darüber hinweg kommen, auch über diese
+Sache.
+
++Frau Scholz+: I’ Gott bewahre -- nee, nee, nee, Alles was recht is.
+Ehre Vater und Mutter: die Hand, die sich gegen den eigenen Vater
+erhebt .... aus dem Grabe wachsen solche Hände. Wir haben uns gezankt,
+ja doch! wir haben beide Fehler mei Mann und ich; aber das sind +unsre+
+Sachen. Kein Mensch hat sich da ’neinzumischen, am wenigsten der eigne
+Sohn. -- Und wer hat die Sache ausbaden müssen? natürlich ich. So ’ne
+alte Frau die hat ’n breiten Puckel. Mei Mann ging aus dem Hause, noch
+am selbigen Tage, und eine halbe Stunde später auch Wilhelm. Da half
+kein reden. Erst dachte ich, sie würden wiederkommen, aber wer nicht
+kam, das waren sie. Und Wilhelm allein, kein andrer Mensch is Schuld
+d’ran, kein andrer Mensch.
+
++Frau Buchner+: Wilhelm mag eine schwere Schuld haben, davon bin ich
+überzeugt, aber sieh mal, wenn man Jahre lang gebüßt hat und -- -- --
+
++Frau Scholz+: Ne, ne! i Gott! wo denkst Du hin?! darüber kann man nich
+so leicht hinweggehen. Das wäre noch schöner! es ist ja sehr schön von
+Dir, daß Du Dich des Jungen so angenommen hast, -- es ist ja auch sehr
+hübsch, daß er kommt, ja warum denn nicht? Aber im Grunde, was nützt
+das alles? so leicht sind die Klüfte nicht auszufüllen. -- Ja, ja, es
+sind Klüfte, -- richtige -- tiefe Klüfte zwischen uns Familiengliedern.
+
++Frau Buchner+: Ich glaube doch, daß wir Menschen mit dem festen,
+ehrlichen Willen ....
+
++Frau Scholz+: Der Wille, der Wille! geh mer nur damit! das kenn ich
+besser. Da mag man wollen und wollen und hundertmal wollen, und Alles
+bleibt doch beim Alten. Ne, ne! das ist ’n ganz andrer Schlag Deine
+Tochter: die is so, und Wilhelm is so, und beide bleiben, wie sie sind.
+Viel zu gutte Sorte für Einen von uns, viel, viel zu gutt. -- Gott ja
+der Wille der Wille! -- ja ja Alles gutter Wille -- Dein Wille ist sehr
+gutt, aber ob Du damit was erreichen wirst --? ich glaube nicht.
+
++Frau Buchner+: Aber ich hoffe es um so fester.
+
++Frau Scholz+: Kann ja alles sein. Ich will ja nichts verderben. Im
+Grunde freue ich mich ja auch von ganzem Herzen auf den Jungen, nur
+regt es mich sehr, sehr auf und paß auf: Du stellst es Dir viel zu
+leicht vor.
+
++Ida+ _(links hereinkommend zu Fr. Scholz, zuthunlich)_:
+Schwiegermütterchen, sie vergoldet Nüsse.
+
++Frau Buchner+: Es wird Zeit Idchen! Du mußt Dich hübsch machen. Er
+kann jetzt jeden Augenblick hier sein.
+
++Ida+ _(erschrocken)_: Soo? schon?
+
++Frau Scholz+: Ach macht ok keene Geschichten! für den Jungen is sie
+viel zu schön.
+
++Frau Buchner+: Ich hab Dir das Blaue zurechtgelegt _(Ida’n
+nachrufend)_ und steck die Broche an, hörst Du! _(Ida ab)_
+
++Frau Buchner+ _(fortfahrend zu Fr. Scholz)_: Auf Schmuck giebt sie
+garnichts.
+
+_(Das Außenportal des Hauses geht.)_
+
++Frau Scholz+: Wart .... wer? .... _(zu Fr. Buchner)_ thu mer den
+Gefallen Du .... ich kann ihn jetzt noch nicht sehen, ich ....
+
++Frau Buchner+ _(an der Treppenthür hinaufrufend)_: Ida! Dein Wilhelm
+kommt.
+
+_(~Dr.~ Scholz tritt ein durch die Glasthür.)_
+
+_~Dr.~ Scholz ist ungewöhnlich groß, breitschultrig, stark
+aufgeschwemmt. Gesicht fett, Teint grau und unrein, die Augen
+zeitweilig wie erstorben, zuweilen lackartig glänzend, vagirender,
+Blick. Er hat einen grauen und struppigen Backenbart. Seine Bewegungen
+sind schwerfällig und zitterig. Er spricht unterbrochen von keuchenden
+Athemzügen, als ob er Mehl im Munde hätte und stolpert über Silben._
+
+_Er ist ohne Sorgfalt gekleidet: ehemals braune, verschossene
+Sammetweste Rock und Beinkleider von indifferenter Färbung. Mütze
+mit großem Schild, steingrau, absonderlich in der Form. Rohseidnes
+Halstuch. Wäsche zerknittert. Zum Schnäuzen verwendet der Doctor ein
+großes, türkisches Taschentuch. Er führt bei seinem Eintritt ein
+spanisches Rohr mit Hirschhornkrücke in der Rechten, hat einen großen
+Militär-Reisehavelock umgehängt und trägt einen Pelzfußsack über den
+linken Arm._
+
+~Dr.~ +Scholz+: ~Servus! servus!~
+
++Frau Scholz+ _(den Doctor wie eine überirdische Erscheinung
+anstarrend)_: Fritz! -- --
+
+~Dr.~ +Scholz+: Ja wie Du sehen kannst.
+
++Frau Scholz+ _(mit einem Schrei ihren Mann umhalsend)_: Fritz!!!
+-- -- --
+
++Auguste+ _(öffnet die Thür links, fährt zugleich zurück)_: Der Vater!
+
+_(Fr. Buchner mit starrem Ausdruck rückwärts schreitend, ab durch linke
+Seitenthür.)_
+
+~Dr.~ +Scholz+: Ich bin’s, wie Du siehst. Vor allem, Du: ist Friebe da?
+
++Friebe+ _(guckt durch die Küchenthür, erschrickt, kommt vollends
+hervor)_: Herr Doctor!! _(er stürzt auf ihn zu, faßt und küßt seine
+beide Hände)_ nu bitt’ ick eenen Menschen! Jott soll mir’n Thaler
+schenken!
+
+~Dr.~ +Scholz+: Pssst! -- sehen Sie mal nach -- schließen Sie die
+Hausthür fest _(Friebe nickt und vollführt den Befehl mit freudigem
+Eifer.)_
+
++Frau Scholz+ _(vor Staunen außer sich)_: Aber sag mer nur Fritz! sag
+mer nur .... die Gedanken fliegen mer davon, _(ihn weinend umhalsend)_
+ach Fritz! was hast Du mir für Kummer gemacht in der langen Zeit!
+
+~Dr.~ +Scholz+ _(seine Frau sanft zurückdrängend)_: Ach, Du .... mein
+Leben ist auch .... wir wollen uns doch lieber nicht von Anfang an mit
+Vorwürfen .... Du bist doch immer die alte wehleidige Seele, _(mit
+gelinder Bitterkeit)_ übrigens würde ich Dich sicher nicht belästigt
+haben, wenn nicht .... _(Friebe nimmt ihm Mantel, Fußsack ⁊c. ab.)_
+Es giebt Lebenslagen, liebe Minna .... wenn man wie ich einflußreiche
+Gegner hat.
+
+_(Friebe ab durch den Treppenausgang, mit den Sachen des Doctor.)_
+
++Frau Scholz+ _(gutmüthig schmollend)_: Es hat Dich doch Niemand
+geheißen Fritz! Du hatt’st doch hier ’n sichres, warmes Zuhause. So
+schön hätt’st Du leben können!
+
+~Dr.~ +Scholz+: Sei nicht böse, aber: daß verstehst Du nicht!
+
++Frau Scholz+: Na ja; ich bin ja nur ’ne einfache Person, das mag ja
+möglich sein, aber Du warst ja wirklich auf Niemand angewiesen, es war
+doch garnicht nöthig, daß Du ....
+
+~Dr.~ +Scholz+: Pssst, es war sehr nöthig _(halbwegs geheimnißvoll)_
+auf Schuld folgt Sühne, auf Sünde folgt Strafe.
+
++Frau Scholz+: Na ja -- freilich Fritz -- es hat wirklich auch viel an
+Dir mitgelegen _(sie wirft von jetzt ab bis zum Schluß des Gesprächs
+fortwährend ängstliche Blicke nach der Hausthür, als befürchte sie
+jeden Augenblick die Ankunft Wilhelms)_, wir hätten doch so ruhig --
+so zufrieden .... wenn Du nur gewollt hätt’st.
+
+~Dr.~ +Scholz+: +Alles+ hat an mir gelegen, ganz und gar +Alles+.
+
++Frau Scholz+: Da bist Du nu auch wieder ungerecht.
+
+~Dr.~ +Scholz+: I! ich will ja auch nicht bestreiten: viel Gemeinheit
+hat sich verbunden gegen mich; das ist ja bekannt: -- zum Beispiel
+denke Dir: in den Hotels -- die Kellner -- keine Nacht konnte ich
+durchschlafen, hin und her, hin und her auf den Corridoren und gerade
+immer vor +meiner+ Thür.
+
++Frau Scholz+: Aber sie werden Dich doch am Ende nicht +absichtlich+
+gestört haben.
+
+~Dr.~ +Scholz+: Nicht? -- Du, hör mal, das verstehst Du nicht!
+
++Frau Scholz+: Na es kann ja sein; die Kellner sind ja mitunter
+niederträchtig.
+
+~Dr.~ +Scholz+: Niederträchtig! ja wohl, niederträchtig! -- übrigens
+wir können ja später darüber reden. Ich habe etwas Kopfschmerz _(faßt
+nach dem Hinterkopf)_ da! Auch so eine Infamie! ich weiß ganz gut, wem
+ich das zu verdanken habe .... ich will mich nur noch vergewissern, ob
+ich sie durch einen gesunden Schlaf vertreibe. Ich bin +sehr+ müde.
+
++Frau Scholz+: Aber oben ist nicht geheizt! Fritz.
+
+~Dr.~ +Scholz+: Denk Dir mal an, in einer Tour von Wien. Nicht geheizt?
+macht nichts: Friebe besorgt das schon. -- Sag mal, wie steht’s mit
+Friebe? -- was ich fragen wollte? ist er noch so zuverlässig?
+
++Frau Scholz+: Friebe is, wie er immer war.
+
+~Dr.~ +Scholz+: Das dacht ich mir doch! -- auf Wiedersehen!
+_(nachdem er seiner Frau die Hand gedrückt, wendet er sich mit tief
+nachdenklichem Ausdruck und schreitet auf den Treppenausgang zu. Den
+Tannenbaum bemerkend, bleibt er stehen und starrt ihn verloren an.)_
+Was heißt denn das?
+
++Frau Scholz+: _(zwischen Furcht, Beschämung und Rührung)_: Wir feiern
+Weihnachten!
+
+~Dr.~ +Scholz+: Feiern? -- -- _(nach einer langen Pause, in Erinnerung
+verloren)_ das -- ist -- lange -- her! _(sich wendend mit echter
+Empfindung redend)_ Du bist +auch+ weiß geworden.
+
++Frau Scholz+: Ja Fritz, -- wir beide ....
+
+~Dr.~ +Scholz+ _(nickt, wendet sich weg. Ab durch den Treppenausgang)_.
+
++Frau Buchner+ _(hastig von links)_: Also Dein Mann ist wieder da?!
+
++Frau Scholz+: Daß is wie so .... wie wenn .... ich weeß nich! Jesus,
+was soll ich nur davon denken?
+
++Frau Buchner+: Daß es eine Schickung ist, liebe Freundin! für die wir
+alle dankbar sein müssen.
+
++Frau Scholz+: Ach, der sieht aus! -- +der+ hat gelebt! So ein Leben,
+wie der geführt haben mag: von einem Land in’s andre, von einer Stadt
+.... ach! der hat eingelegt!
+
++Frau Buchner+ _(will die Treppe hinauf)_.
+
++Frau Scholz+ _(erschreckt)_: Wo denn hin?
+
++Frau Buchner+: Ida von dem freudigen Ereigniß verständigen! _(ab durch
+den Treppenausgang)_.
+
++Frau Scholz+: O Gott ja! ne ne, wo denkst Du hin! Das dürf’n mer
+’n nich merken lassen! Da kenn ich meinen Mann zu gutt! wenn der
+rauskriegt, daß noch Jemand außer ihm oben wohnt .... da käm ich schön
+an!
+
++Frau Buchner+ _(schon auf der Treppe)_: Ich werd’ schon ganz leise ....
+
++Frau Scholz+: Nur ganz leise! das wär’ so was!
+
++Frau Buchner+: Ganz leise geh ich.
+
++Frau Scholz+: O Gottogott! nur schon +ja+ ganz leise!
+
++Frau Scholz+ _(außer Fassung)_: Na natürlich! was soll man nu machen?
+und nu der Wilhelm noch. Todtenangst hab ich ausgestanden. Wenn er nu
+mit Vater zusammengetroffen wäre? Jeden Augenblick konnte er eintreten.
+Was werde ich alte Frau noch Alles erleben müssen!
+
++Auguste+: Ein zu merkwürdiges Gefühl, Mama, zu merkwürdig! Man hatte
+sich so daran gewöhnt. -- Wie wenn ein Todter nach Jahren wieder
+aufsteht. Ich hab Angst, Mama.
+
++Frau Scholz+: Am Ende ist er mit seinem Gelde alle geworden?
+
++Auguste+: Na das wäre doch ....! meinswegen! das wäre noch das letzte.
+
++Frau Scholz+: Na auf welche Weise wir dann blos auskommen sollten ...
+da könnten wir nur gleich betteln geh’n.
+
++Ida+ _(in Toilette von oben, freudig. Augusten die Hand drückend,
+innig.)_ Gustchen! also wirklich?! ach das freut mich. _(Frau Scholz
+und Auguste peinlich berührt)._
+
++Robert+ _(aus einer der Thüren links. Er ist mittelgroß, schmächtig,
+im Gesicht hager und blaß. Seine Augen liegen tief und leuchten
+zuweilen krankhaft. Schnurr- und Kinnbart. Er raucht aus einer Pfeife
+mit ganz kurzem Rohr türkischen Taback.)_
+
++Robert+ _(leichthin)_: Es wird ungemüthlich bei Dir Mutter!
+
++Frau Scholz+: Nanu fängt der +auch+ noch an!
+
++Auguste+: Meinswegen _(verstohlen, scheele Blicke auf Idas Toilette)_.
+
++Robert+ _(zu Ida die ihn angeblickt hat)_: Ja, so bin ich nun mal,
+Fräulein Ida!
+
++Ida+ _(schüttelt ungläubig den Kopf)_:. Nein -- nein.
+
++Robert+: Wieso nicht? -- Ich halte es nicht für der Mühe werth, ’n
+paar gleichgültige Gefühle zu heucheln. -- Wirklich nicht!
+
++Ida+: Nein -- nein.
+
++Auguste+ _(ausbrechend)_: Du bist empörend, Robert!
+
++Robert+: Nicht mit Absicht. Empöre sich Niemand!
+
++Auguste+: Meinswegen.
+
++Robert+: Na item.
+
++Auguste+: Item, item -- Quatsch!
+
++Robert+ _(mit geheucheltem Erstaunen)_: Verzeih’, -- ich glaubte ....
+aber Du hältst ja nichts mehr auf äußere Reize.
+
++Ida+ _(schlichtend)_: Ach Herr Robert ....
+
++Robert+: Ja -- soll ich mich denn nicht meiner Haut ....?
+
++Auguste+ _(von Thränen halb erstickt)_: Ganz Du! -- ganz Du! Dein
+ganzes .... mein Alter .... geradezu perfid! -- Frau Buchner! das
+soll nicht gemein sein? -- mir .... ich -- die ich hier gesessen hab
+.... bei der Mutter hier -- die schönste .... schönste Zeit meines
+.... Lebens verbracht, während Ihr .... ich .... geradezu wie eine
+Dienstmagd ....
+
++Robert+: Das klingt sehr echt, -- in der That! -- geh doch zur Bühne!
+-- _(mit verändertem Ton, brutal)_ mach keine schlechten Scherze! hör
+mal: Du und der Märtyrernimbus, das wirkt einfach putzig. Du bist eben
+wo anders noch weniger auf Deine Rechnung gekommen, als zu Hause, das
+ist die Wahrheit!
+
++Auguste+: Mutter! Du bist Zeuge: hab ich nicht drei Anträge abgewiesen!
+
++Robert+: Hui! Wenn Mutter nur mit dem nöthigen Gelde rausgerückt
+hätte, dann hätten Dich die Herren gewiß mit in Kauf genommen.
+
++Frau Scholz+: Geld? _(auf Robert zutretend, ihm die Hand hinhaltend)_
+da nimm ein Küchenmesser! -- schneid mir’s raus! schneid mir das Geld
+aus der Hand!
+
++Auguste+: +Sie mich?+ willst Du die Absagebriefe sehen?
+
++Frau Scholz+ _(unterbechend)_: Kinder! _(sie macht eine Bewegung,
+als ob sie ihre Brust für den Todesstoß entblößen wollte)_ da hier!
+-- macht mich doch lieber gleich todt! habt ihr denn nich +so+ viel
+Rücksicht für mich? nich +so+ viel? -- wie ....? großer Gott nich fünf
+Minuten .... ich weiß nich, was das blos für Kinder ...., nich fünf
+Minuten halten sie Frieden.
+
++Robert+: Na ja freilich! ich sag ja schon: -- es wird eben wieder
+ungemüthlich.
+
++Friebe+ _(geschäftig aus dem oberen Stockwerk. Er flüstert Fr. Scholz
+etwas zu, worauf hin diese ihm einen Schlüssel einhändigt. Friebe ab in
+den Keller)_.
+
++Robert+ _(hat stillstehend den ganzen Vorgang beobachtet. Im selben
+Augenblick, als Friebe in der Kellerthür verschwindet)_: Aha!
+
++Auguste+ _(hat ihrerseits Robert im Auge behalten. Nun bricht sie aus,
+entrüstet)_: Pietätlos bist Du -- durch und durch.
+
++Robert+: Na item.
+
++Auguste+: Aber Du spielst Komödie; Du lügst ganz erbärmlich, und das
+ist das Widerwärtige daran!
+
++Robert+: In Hinsicht auf Vater meinst Du?!
+
++Auguste+: Allerdings in Hinsicht auf Vater.
+
++Robert+ -- _(achselzuckend)_: -- Wenn Du meinst ....
+
++Auguste+: Ja -- das .... das .... ja -- denn -- wenn es anders wäre,
+dann .... ja .... dann wärst Du ein Wicht.
+
++Frau Scholz+ _(dazwischen redend)_: Wird denn das irgend bald aufhören
+oder was ....
+
++Robert+ _(gleichmüthig)_: Dann +bin+ ich ein Wicht. Nun, und?
+
+_(Ida seit geraumer Zeit unruhig in Erwartung ab durch die Glasthür.)_
+
++Auguste+: Pfui, schamlos!
+
++Robert+: Schamlos, ganz recht, das bin ich.
+
++Frau Buchner+: Herr Robert! ich glaube Ihnen nicht .... Sie sind
+besser, als Sie uns glauben machen wollen, -- besser, als Sie selbst
+glauben sogar.
+
++Robert+ _(mit gelindem, sich steigerndem Sarkasmus, kalt)_: Verehrte
+Frau Buchner! -- es ist ja vielleicht äußerst liebenswürdig .... aber
+wie gesagt: -- ich weiß nicht recht, wie ich zu der Ehre .... ja ich
+muß sogar Ihre Liebenswürdigkeit geradezu ablehnen. Meine Selbstachtung
+ist vorläufig wenigstens noch keineswegs so gering, daß ich Jemand
+nöthig hätte mich ....
+
++Frau Buchner+ _(in gelinder Verwirrung)_: Das ist ja auch garnicht
+meine Absicht. -- Nur .... Ihr Vater -- ....
+
++Robert+: Mein Vater ist für mich ein ~Doctor medicinae~ Fritz Scholz.
+
++Auguste+: Ja, ja, red’ nur!
+
++Robert+: Und wenn ich diesem Menschen nicht ganz so gleichgültig
+gegenüberstehe, als irgend einem X- oder Y-Narren, so liegt das
++da+ran, daß ich .... na ~item~ .... _(er raucht)_ weil ich .... na
+eben: ich bin eben gewissermaßen ein Produkt seiner Narrheit.
+
++Frau Buchner+ _(gleichsam betäubt)_: Verzeihen Sie! -- hier kann ich
+nun doch nicht mehr mit -- So etwas wagen Sie auszusprechen!? mich
+überläuft es förmlich.
+
++Frau Scholz+ _(zu Fr. Buchner)_: Laß gut sein, laß gut sein! Du wirst
+bei uns noch Dinge erleben ....
+
++Auguste+: Was das nun auch wieder heißen soll, Mutter! -- wir sind,
+wie wir sind. Andre Leute, die wer weiß +wie+ thun, sind um nichts
+besser.
+
++Robert+: Es giebt in der That noch immer naive Seelen, die sich
+nicht wohl fühlen, wenn sie nicht an ihren Mitmenschen herumbessern und
+herumflicken können. Veralteter Zauber! -- Zopf!
+
++Frau Buchner+ _(Robert bei beiden Händen fassend, herzlich)_: Herr
+Robert! ich fühle mich im Dienste einer +bestimmten+ Sache. Das feit
+mich. Aus Herzensgrund: Sie haben mich nicht beleidigt.
+
++Robert+ _(ein wenig aus der Fassung)_: Sie sind eine +merkwürdige+
+Frau.
+
++Friebe+ _(kommt aus dem Keller. Er trägt in der linken Hand drei
+Flaschen Rothwein -- und zwar so, daß die Finger geklemmt sind -- unter
+der linken Achselhöhle eine Flasche Cognac. Mit der rechten Hand hält
+er die Kellerschlüssel. Zu Fr. Scholz tretend, geschäftig)_: Nun man
+fix die Cigarren!
+
++Frau Scholz+: Gott ja, Friebe! ich weiß ja garnicht ....
+
++Robert+: Im Schreibtisch, Mutter.
+
++Frau Scholz+: Ach so .... _(sie nimmt das Schlüsselbund und sucht
+fahrig nach dem rechten Schlüssel)_.
+
++Auguste+: Du kennst doch den Schreibtischschlüssel.
+
++Robert+: Mit gradem Bart.
+
++Frau Scholz+: Richtig! -- wart! ....
+
++Robert+: Gieb mal ....
+
++Frau Scholz+: Wart nur, wart! -- hier! ach nein doch! -- ich bin ganz
+verwirrt. _(Robert das Bund hinreichend.)_ Da.
+
++Robert+ _(den richtigen Schlüssel abziehend und Friebe hinreichend)_:
+Da -- Lassen Sie Sich meines Vaters Cigarren gut schmecken.
+
++Friebe+: Na ooch noch! det krijt den ollen Zacken den janzen Tach nich
+aus de Kinnladen _(es wird stark an der Klingel gerissen)_ komm schon!
+_(Friebe ab nach oben.)_
+
++Frau Scholz+: Da wird der Wein bald alle werden .... Großer Gott,
+wohin soll das führen? der viele Wein! immer die theuren, schweren
+Cigarren! ich sag ja, er wird sich noch zu Grunde richten.
+
++Robert+: Das muß Jedem unbenommen bleiben.
+
++Frau Buchner+: Was meinen Sie?
+
++Robert+: Sich auf seine eigne Art zu vergnügen. Ich wenigstens würde
+mir dieses Recht auf keine Weise verkümmern lassen. Selbst nicht durch
+Gesetze. Sonderbar übrigens! --
+
++Frau Buchner+: Wie? ....
+
++Robert+: Sonderbar! --
+
++Frau Buchner+: Weshalb betrachten Sie mich so eingehend? ist es an
+mir, -- das Sonderbare?
+
++Robert+: Wie man’s nimmt. Sie sind mehrere Tage bei uns und denken
+noch immer nicht an’s Abreisen.
+
++Auguste+: So’n Gerede!
+
++Frau Scholz+: Das hört nich auf! _(schüttelt verzweifelt den Kopf)._
+
++Robert+ _(mit brutaler Heftigkeit)_: Na Mutter, ist es etwa nicht
+wahr? -- Hat es bei uns irgend ein Fremder je länger als einen halben
+Tag ausgehalten? -- haben sie sich nicht alle von uns zurückgezogen,
+Nitzssches, Lehmann’s ....?
+
++Auguste+: Als ob wir auf fremde Leute angewiesen wären. -- Meinswegen!
+wir sind uns selber genug ....
+
++Robert+: Ja, vollauf wirklich: _(brutal im Ton)_ ich saaage Ihnen,
+Frau Buchner! in Gegenwart wildfremder Menschen kamen sie sich derart
+in die Haare, daß die Fetzen flogen. Die Mutter riß das Tischtuch
+herunter, der Vater zerkeilte die Wasserflasche. -- Heiter! nicht? --
+heitre Scenen, heitre Kindheitseindrücke!?
+
++Auguste+: Du solltest Dich verkriechen vor Scham, gemeiner Mensch!
+_(schnell ab.)_
+
++Frau Scholz+: Siehst Du nu? daran bin ich nu seit Jahrzehnten, seit
+Jahrzehnten gewöhnt! _(ab in Bewegung.)_
+
++Robert+ _(unbeirrt fortfahrend)_: Kein Wunder allerdings. Ein Mann von
+vierzig heirathet ein Mädchen von sechzehn und schleppt sie in diesen
+weltvergessenen Winkel. Ein Mann, der als Arzt in türkischen Diensten
+gestanden und Japan bereist hat. Ein gebildeter, unternehmender Geist.
+Ein Mann, der noch eben die weittragendsten Projekte schmiedete,
+thut sich mit einer Frau zusammen, die noch vor wenigen Jahren
+fest überzeugt war, man könne Amerika als Stern am Himmel sehen. Ja
+wirklich! ich schneide nicht auf. Na und darnach ist es denn auch
+geworden: ein stehender, fauler, gährender Sumpf, dem wir zu entstammen
+das zweifelhafte Vergnügen haben. Haarsträubend! Liebe -- keine Spur.
+Gegenseitiges Verständniß -- Achtung -- nicht Rühran -- und dies das
+Beet, auf dem wir Kinder gewachsen sind.
+
++Frau Buchner+: Herr Robert! ich möchte Sie recht sehr bitten ....
+
++Robert+: Schön! -- am Reden liegt mir garnichts. Die Geschichte ist
+außerdem ....
+
++Frau Buchner+: Nein, nein. Ich möchte Sie nur um etwas bitten; es eilt.
+
++Robert+: Bitten? -- mich?
+
++Frau Buchner+: Könnten Sie’s nicht +mir+ zu Liebe thun .... könnten
+Sie nicht .... Wäre es denn garnicht möglich .... Könnten Sie nicht für
+diesen Abend einmal Ihre Maske ablegen?
+
++Robert+: Sehr gut! -- Maske ablegen?
+
++Frau Buchner+: Ja, denn es ist wirklich nicht Ihr wahres Gesicht, was
+Sie herauskehren.
+
++Robert+: Was Sie sagen!
+
++Frau Buchner+: Versprechen Sie mir, Herr Robert ....
+
++Robert+: Aber ich weiß ja garnicht ....
+
++Frau Buchner+: Wilhelm .... Ihr Bruder Wilhelm kann jeden Augenblick
+kommen und ....
+
++Robert+ _(unterbrechend)_: Frau Buchner! wenn -- Sie -- mir -- doch
+-- glauben wollten! Ihre Bemühungen -- ich versichere Sie -- sind ganz
+umsonst. Dies alles führt zu nichts -- zu garnichts. Wir sind alle von
+Grund aus verpfuscht. Verpfuscht in der Anlage, vollends verpfuscht in
+der Erziehung. Da ist nichts mehr zu machen. Es sieht Alles recht gut
+aus: Weihnachtsbaum -- Lichter -- Geschenke -- Familienfest, aber es
+ist doch nur obenhin; eine gequälte, plumpe Lüge -- weiter nichts! --
+Und nun gar noch der Vater. Wenn ich nicht wüßte, wie unzugänglich er
+ist -- auf Ehre! ich würde glauben, Sie hätten ihn hierher gebracht.
+
++Frau Buchner+: Bei Gott, nein! das gerade hat meine Hoffnung belebt.
+Das kann kein Zufall sein, das ist Fügung. Und deshalb aus Grund meiner
+Seele: seien Sie freundlich und gut zu Ihrem Bruder! Wenn Sie wüßten,
+wie gut er von Ihnen spricht, mit welcher Liebe und Achtung ....
+
++Robert+ _(unterbrechend)_: Ja, und der Zweck?
+
++Frau Buchner+: Wie.
+
++Robert+: Weshalb soll ich zu ihm freundlich und gut sein?
+
++Frau Buchner+: Das fragen Sie?!
+
++Robert+: Ja.
+
++Frau Buchner+: Nun -- doch wohl zunächst, um ihm die Rückkehr in’s
+Elternhaus nicht von vornherein zu verleiden.
+
++Robert+: O, wir tangiren einander nicht, wie Sie zu glauben scheinen,
+und -- übrigens, wenn Sie meinen, daß sich seiner beim Eintritt in
+diese Räume etwa eine subtile Rührung bemächtigen wird ....
+
++Frau Buchner+: Ihr Bruder ist ein so guter, im Grunde so edler Mensch!
+-- Er hat einen Riesenkampf gekämpft, bevor er sich zu diesem Schritt
+entschloß. Ich kann Ihnen die Versicherung geben, er kommt mit dem
+heißen Wunsche einer Aussöhnung.
+
++Robert+: Ich begreife garnicht, was das heißen soll! Aussöhnen?! mit
+was will er sich denn aussöhnen? Ich verstehe so was garnicht. Wir
+verstehen uns doch sonst untereinander so ziemlich, wir Geschwister.
+Das ist mir ganz neu. Ich habe ihm nichts vorzuwerfen. Andererseits
+sind Thatsachen nicht zu vertuschen. -- Ich frage Sie: Glauben Sie, daß
+ich besondere Hochachtung vor meinem Vater empfinde --? Nicht wahr?
+nein --? Oder lieb’ ich ihn vielleicht? -- Empfinde ich vielleicht
+kindliche Dankbarkeit? -- Nun sehen Sie, zu alledem habe ich auch nicht
+den mindesten Grund. Wir sind uns gegenseitig zeitlebens im besten
+Falle Luft gewesen. -- Zu Zeiten, als wir uns gegenseitig für unser
+Unglück verantwortlich machten, haben wir uns sogar geradezu gehaßt.
+-- Nun, zwischen Vater und Wilhelm ist dieser selbe Haß ausgeartet.
+Das ist mir durchaus begreiflich. Wenn ich nicht wie Wilhelm verfahren
+bin, so ist das vielleicht Zufall. Also, ich habe nichts gegen ihn, --
+notabene, wenn ich ihn nicht sehe. Seh’ ich ihn aber, dann geht alle
+meine Ueberlegung zum Teufel, dann bin ich etwas .... etwas .... na,
+wie soll ich sagen? dann .... dann seh’ ich eben nur den Menschen, der
++meinem+ Vater -- nicht seinem, sondern meinem Vater -- in’s Gesicht
+geschlagen hat.
+
++Frau Buchner+: O du großer Gott!
+
++Robert+: Und da steh’ ich für garnichts ein, durchaus für garnichts.
+
++Frau Buchner+: O du großer Gott! das also ist es. -- Geschlagen,
+sagten Sie? -- in’s G--esicht? -- seinen +eignen+ Vater?
+
++Robert+: Na item. --
+
++Frau Buchner+ _(halb von Sinnen)_: O du großer Gott! o du großer Gott!
+aber -- dann .... dann kann ich ja .... dann muß ich ja auf der Stelle
+mit Ihrem guten, alten Vater reden, dann ....
+
++Robert+ _(tief erschrocken)_: Mit wem?
+
++Frau Buchner+ _(halb weinend)_: Mit Ihrem guten, alten, armen,
+gemißhandelten Vater.
+
++Robert+ _(sucht sie festzuhalten)_: Um Himmelswillen, mit wem wollen
+Sie ....?
+
++Frau Buchner+: Lassen Sie mich! ich muß, muß. _(ab durch den
+Treppenausgang.)_
+
++Robert+ _(ihr nachrufend)_: Frau Buchner! _(sich wendend)_ Hysterie,
+verdammte!
+
+_(Er zuckt mit den Achseln und durchmißt den Raum; mehrmals noch
+nimmt er plötzlich einen Anlauf, wie um ihr nachzueilen, ändert aber
+jedesmal seinen Entschluß, giebt ihn schließlich ganz auf und beruhigt
+sich gewaltsam bis zu einem Stadium scheinbaren Gleichmuths. In diesem
+Stadium beschäftigt ihn anfänglich seine Tabakspfeife: er klopft sie
+aus, füllt sie mit neuem Tabak, den er einem Beutel entnimmt, setzt
+sie in Brand und scheint mehrere Augenblicke dem Genuß des Rauchens
+ganz allein hingegeben. Sein Interesse fängt in der Folge an, sich dem
+Christbaum und den Geschenken auf der Tafel zuzuwenden, breitbeinig
+davorstehend und Alles überblickend lacht er, die Pfeife im Munde,
+wiederholt bitter auf. Plötzlich stutzt er dann und beugt sich,
+nachdem er die Pfeife in die Hand genommen, tief über die Tafel. Sich
+aufrichtend, scheint er jetzt erst die Entdeckung zu machen, daß er
+allein ist. Scheu wie ein Dieb umherblickend, beugt er sich abermals,
+ergreift mit Hast die gelbseidne Geldbörse, führt sie den Augen
+näher und mit einer jähen leidenschaftlichen Bewegung an die Lippen.
+Dieser Moment zeigt das Aufblitzen einer unheimlichen, krankhaften
+Leidenschaftlichkeit. Ein Geräusch stört ihn. Augenblicklich liegt die
+Börse an ihrem alten Platz. Auf den Zehen gehend, sucht Robert sich
+davon zu schleichen. Im Begriff durch die erste Seitenthür links zu
+verschwinden, bemerkt er, wie durch die Nebenthür seine Mutter, Frau
+Scholz, eintritt, und steht seinerseits still.)_
+
++Frau Scholz+ _(geht schwerfällig aber eilig quer durch den Saal bis
+zum Treppenausgang; hier horcht sie)_.
+
++Robert+ _(sich zurückwendend)_: Sag’ mal, Mutter! -- was +will+ denn
+eigentlich diese Frau?
+
++Frau Scholz+ _(erschreckt)_: O Gottogottogott!! -- Du erschrickst
+ein’n aber auch ....
+
++Robert+: Was .... w .... was beab .... was die Buchner hier eigentlich
+beabsichtigt, möchte ich gerne wissen.
+
++Frau Scholz+: Wenn ich lieber wüßte, -- was der Vater .... Was will er
+denn eigentlich? ja -- sag’ mir! -- was -- will er?
+
++Robert+: Na, die Unterkunft wirst Du ihm doch wohl nicht verweigern
+wollen?
+
++Frau Scholz+ _(halb weinerlich trotzend)_: Ich seh nicht ein, -- so
+lange hat er mich nicht nöthig gehabt. Man war doch wenigstens sei’
+eigner Herr. Nu wird’s wieder schön losgehen, das Gekujenire. Nu wird
+man woll uff seine alten Tage noch wie e kleenes Kind pariren müssen.
+
++Robert+: Du mußt immer übertreiben! Es geht partout nicht anders:
+übertrieben muß werden.
+
++Frau Scholz+: Paß Du nur uff, wenn er morgen das leere Glashaus sehen
+wird. Ich kann doch für den Prast nicht extra eenen Gärtner halten!?
+-- und die Ameisenkästen sind ooch weg. Meinswegen brauchen keene
+Blumen wachsen, man krigt doch blos Kopfschmerzen davon! Und erscht das
+Ungeziefer! -- ich weiß nich, was er daran blos hat. Und deshalb muß
+man sich runterlumpen lassen. Das Halloh blos! ich ängst’ mich schon zu
+Tode -- -- -- -- -- -- -- -- -- -- Ach ’s is nich mehr hibsch uff der
+Welt.
+
++Robert+ _(hat, während Frau Scholz noch redet, sich achselzuckend zum
+Gehen gewendet; nun steht er still und spricht zurück)_: Ist’s irgend
+früher mal hübscher gewesen?
+
++Frau Scholz+: Nun +das+ -- dächt ich!!!
+
++Robert+: So? na dann muß das wohl +vor+ meiner Zeit gewesen sein. _(ab
+durch die erste Thür links.)_
+
++Frau Scholz+ _(schon wieder lauschend an dem Treppenausgang)_: Wenn
+ich zurückdenke .... oben wird ja gesprochen .... _(sie schließt auf,
+sieht sich allein, horcht abermals unruhig und verschwindet schließlich
+-- die Hand am Ohr -- mit einem Gesicht voll Gram, Kummer und Neugier
+durch den Treppenausgang)_.
+
+_(+Ida+ und +Wilhelm+ durch die Glasthür. +Wilhelm+: mittelgroß,
+kräftig, wohlaussehend. Blonder kurzgeschorener Kopf, Kleidung
+gutsitzend, nicht geckenhaft. Paletot, Hut, Reisetasche. Seine Linke
+ist um die Schultern Ida’s gelegt, die ihn ihrerseits mit dem rechten
+Arm umfaßt hält und den leise Widerstrebenden vorwärts drängt.)_
+
++Ida+: Siehst Du, nu bist Du drin! die Hauptsache ist nu schon
+überstanden.
+
++Wilhelm+ _(schwer aufseufzend)_: O nein, Du!
+
++Ida+: Du kannst mir glauben, Deine Mutter freut sich sehr, sehr auf
+Dich. Auch Gustchen _(sie zieht ihm die Winterhandschuhe ab)_. Wo hast
+Du denn +die+ her?
+
++Wilhelm+: Du kennst also nun meine -- Mutter?
+
++Ida+: Alle, Schatz! -- seit heute dutzen wir uns sogar.
+
++Wilhelm+: Wie bist Du mit -- ihnen zufrieden?
+
++Ida+: Seelensgute Menschen, das weißt Du ja selbst.
+
++Wilhelm+ _(von jetzt ab befangener mit jedem Augenblick, gedehnt und
+wie im Selbstgespräch redend)_: Merk--würdig _(seine Augen haften
+an dem Christbaum, in den Anblick desselben versinkend, ist er
+unwillkürlich stehen geblieben)_.
+
++Ida+ _(ihm den Paletot aufknöpfend)_: Aber Schatz! das ist doch nicht
+der erste Christbaum, den Du ...
+
++Wilhelm+: Hier ja -- und Du kannst, +kannst+ mir nicht nachfühlen --
++wie+ sonderbar ....
+
++Ida+ _(ihm -- was er mechanisch geschehen läßt -- den Paletot
+abziehend)_: Bitte, bitte Willy! _(den Paletot über’m Arm, Hut und
+Reisetasche in der Hand, vor ihm stehend)._ Willy! -- sieh mich an ...
+_(anfeuernd)_ stark .... _(einen Augenblick lang steht sie straff
+aufgerichtet, dann legt sie die Sachen schnell beiseite und kehrt zu
+Wilhelm zurück)._ Du -- hast mir ver--sprochen ....
+
++Wilhelm+: Hast Du mal .... Ida! .... hast Du mal .... ein Gruftgewölbe
+mit Kränzen und ....
+
++Ida+ _(erschrocken)_: Aber Wilhelm! _(ihn stürmisch umarmend, außer
+sich)_ das ist bös! das ist wirklich bös! das ist wirklich sehr, sehr
+bös.
+
++Wilhelm+ _(sie sanft zurückdrängend, mit unterdrückter Bewegung)_:
+Ach, dabei ist ja garnichts _(kühl, abwesend)_. Sei gut, sei gut!
+............
+
++Ida+: Ach, wie Du doch bist!
+
++Wilhelm+ _(den Baum durchmusternd)_: Sonst -- Alles -- beim Alten
+....... Ida! -- das mußt Du mir wirklich wirklich -- anrechnen!
+
++Ida+: Mir wird auf einmal so bange, Willy. Ob es am Ende nicht besser
+gewesen wäre ..... Mutter hat ja gewiß nicht gewußt, daß es Dir so,
++so+ schwer werden würde und ich ... ich dachte ja nur ... weil es
+Mutter sagte ... ich wollte es ja garnicht. Aber nun ... nun bist Du
+einmal so weit, nun sei auch .... hörst Du? .... thu mir die Liebe!
+.... ach _(sie umarmt ihn)_.
+
++Wilhelm+ _(von Idas Armen ein wenig weiter hereingezogen, mit Zeichen
+tiefer, innerer Erschütterung)_: .. Jeder Schritt vorwärts .... was hab
+ich hier nicht Alles durchlebt!
+
++Ida+: Nur nicht aufwühlen! nicht das Alte aufwühlen!
+
++Wilhelm+: Sieh mal! -- jetzt wird mir doch klar -- Deine Mutter hätte
+mir das +nicht+ rathen sollen. -- Sie ist immer so zuversichtlich,
+so ..., ich hab’s ja gewußt, ich sagte es ihr -- aber diese naive,
+felsenfeste Zuversicht .... hätt ich mich doch nur nicht verblenden
+lassen!
+
++Ida+: Ach wie Du doch Alles schwer nimmst, Wilhelm! glaub mir, Du
+wirst morgen anders sprechen -- wenn Du sie erst Alle wiedergesehen
+hast! .... Du bist dann doch wenigstens vor Dir selbst gerechtfertigt.
+Du hast bewiesen, daß es Dir ernstlich darum zu thun war, mit Deiner
+Familie in Frieden zu leben.
+
++Wilhelm+: Wenn man so Alles wiedersieht, -- die alten Plätze alle --
+Alles tritt so heraus --, so hervor, weißt Du! -- die Vergangenheit
+kommt einem so nah, -- so aufdringlich nah; man kann sich ... förmlich
+wehrlos ist man.
+
++Ida+ _(ihn weinend umhalsend)_: Wenn ich Dich so sehe, Wilhelm ....
+ach glaub nur ja nicht .... glaub doch nur um Himmelswillen nicht etwa,
+ich hätte Dich dazu gedrängt, wenn ich .... wenn ich auch nur geahnt
+hätte .... glaub doch +das+ nur nicht! Du thust mir ja so furchtbar
+leid.
+
++Wilhelm+: Ida! -- zu Dir gesagt -- ich kann Dich versichern, daß ich
+hier fort muß. -- Offenbar! -- ich bin diesem Ansturm nicht gewachsen
+-- offenbar! -- es ruinirt mich möglicherweise -- auf immer. -- Du
+bist ja ein Kind! -- ein süßes, reines Kind, Ida -- was weißt Du. --
+Gott sei ewig Dank, daß Du nicht einmal ahnen kannst, was mich ... was
+der Mensch neben Dir .... zu Dir gesagt -- Haß! Galle! -- schon als ich
+hereintrat ...
+
++Ida+: Wollen wir gehen? wollen wir augenblicklich von hier fortgehen?
+
++Wilhelm+: Ja, -- denn -- in dieser Umgebung -- selbst Du! -- ich
+unterscheide Dich kaum mehr von den Andern. -- Ich verliere Dich! -- es
+ist ein Verbrechen von mir, schon allein, daß +Du hier+ bist.
+
++Ida+: Wenn Du doch nur deutlich sein könntest, Wilhelm! es muß doch --
+hier etwas Furchtbares passirt sein, was ....
+
++Wilhelm+: Hier? ein Verbrechen! um so furchtbarer, weil es nicht als
+Verbrechen gilt. Man hat mir hier mein Leben gegeben und hier hat
+man mir dasselbe Leben -- zu Dir gesagt -- fast möchte ich sagen:
+systematisch verdorben -- bis es mich anwiderte -- bis ich daran trug,
+schleppte, darunter keuchte wie ein Lastthier -- mich damit verkroch,
+vergrub, versteckte, was weiß ich -- aber man leidet namenlos -- Haß,
+Wuth, Reue, Verzweiflung -- kein Stillstand! -- Tag und Nacht dieselben
+ätzenden, fressenden Schmerzen _(deutet auf die Stirn)_ da! ....
+_(deutet auf’s Herz)_ und -- auch -- da!
+
++Ida+: Was soll ich nur thun, Wilhelm? ich getraue mir garnicht mehr --
+Dir etwas zu rathen -- ich bin so ....
+
++Wilhelm+: Ihr hättet zufrieden sein sollen -- daß ich glücklich so
+weit war, +wie+ ich war. -- Es war ja Alles glücklich so weit abgeblaßt
+-- jetzt erst erkenne ich, +wie+ weit _(überwältigt von Erregung bricht
+er auf einen Stuhl zusammen)_.
+
++Ida+ _(mit unterdrücktem Aufschrei)_: Wilhelm!
+
++Frau Buchner+ _(in fliegender Hast durch den Treppenbogen. Auf Wilhelm
+zustürzend)_: Wilhelm, hören Sie mich, Wilhelm! -- jetzt denken Sie an
+das, was wir gesprochen haben. Jetzt -- wenn ich Ihnen so viel gelte
+.... Ich beschwöre Sie .... Jetzt zeigen Sie .... Ja ich fordre ....
+Ich verlange von Ihnen als Mutter meines Kindes ..... Wilhelm! ....
+Es liegt nun an Ihnen, -- an Ihnen allein .... Wilhelm, Sie haben
+furchtbar gefehlt! -- Sie haben eine furchtbare Schuld -- Sie werden
+wieder froh werden. -- Ich hab es gethan .... ich habe mit Ihrem Vater
+geredet, er ....
+
++Wilhelm+ _(steif in die Höhe schnellend, mit starrem Ausdruck und
+lallender Stimme)_: V--Vater? -- -- wie? -- m... mit m...einem
+V...ater? _(er wankt, taumelt wie ein Blödsinniger und sucht seine
+Sachen zu ergreifen.)_
+
++Ida+ _(tief erschrocken)_: Wil... W...
+
++Wilhelm+ _(giebt durch Zeichen zu verstehen, man soll ihn nicht
+unterbrechen)_:
+
++Ida+: Ach -- Mutter -- Wilhelm -- ... Du .... Du hättest ihm -- das
+nicht -- gleich sagen sollen.
+
++Frau Buchner+: Wilhelm! sind Sie ein Mann?! Sie können uns doch nicht
+belogen haben. Wenn Sie noch einen Funken Liebe für uns, -- für Ida ...
+Ich fordre Sie auf ... Ich, eine Frau ...
+
++Ida+ _(wirft sich Wilhelm, der schon seine Sachen ergriffen hat,
+entgegen und hält ihn -- indem sie ihn umschlingt -- fest)_: Du darfst
+nicht fort, oder ich .... Mutter! wenn er geht -- ich gehe mit ihm!
+
++Wilhelm+: Warum -- habt Ihr mir das verschwiegen?
+
++Ida+: Nichts ... Du mußt doch nicht gar so schlecht von uns .... Wir
+haben Dir nichts verschwiegen.
+
++Frau Buchner+: Wir alle, Ihre Mutter, Ihre Schwester, wir waren alle
+ahnungslos, -- eben so ahnungslos, wie Sie. Vor wenigen Minuten ist er
+angekommen -- ohne sich vorher anzumelden; und, sehen Sie, da dachte
+ich gleich ....
+
++Wilhelm+: Wer -- hat Ihnen +das+ -- mitgetheilt?
+
++Frau Buchner+ _(unter Thränen seine Hand ergreifend)_: Sie haben
+furchtbar, furchtbar gefehlt.
+
++Wilhelm+: Sie wissen also --?
+
++Frau Buchner+: Ja, jetzt ....
+
++Wilhelm+: Alles?
+
++Frau Buchner+: Ja Alles; -- und, sehen Sie, daß ich Recht hatte, --
+daß Sie noch etwas mit sich herumschleppten? das +war+ das Geheimniß.
+
++Wilhelm+: Sie wissen, daß ich ....?
+
++Frau Buchner+ _(nickt bejahend)_.
+
++Wilhelm+: Und Ida --? soll sie einem Menschen zum Opfer fallen, wie
+... wie ich bin, -- des ... weiß sie’s? ... weißt Du’s -- Ida -- auch?
+
++Ida+: Nein Wilhelm -- aber -- ob ich das weiß oder nicht; -- das ist
+wirklich ganz gleichgültig.
+
++Wilhelm+: Nein. -- Diese Hand, die Du ... die Dich oft ... diese Hand
+hat ... _(zu Frau Buchner)_ Ist es das?
+
++Frau Buchner+ _(nickt bejahend)_.
+
++Wilhelm+ _(zu Ida)_: Wie schändlich hab’ ich Dich betrogen! -- ich
+bring’s nicht über mich. -- Später! .......
+
++Frau Buchner+: Wilhelm! Ich weiß, was ich verlange, aber ich ... Sie
++müssen+ sich vor Ihrem +armen+ Vater erniedrigen -- erst dann werden
+Sie sich wieder ganz frei fühlen. Rufen Sie ihn an! beten Sie ihn an!
+ach Wilhelm! das müssen Sie thun! Seine Kniee müssen Sie umklammern --
+und wenn er Sie mit dem Fuße tritt, wehren Sie sich nicht! reden Sie
+kein Wort! geduldig wie ein Lamm! glauben Sie mir -- einer Frau, die
+Ihr Bestes will.
+
++Wilhelm+: Sie wissen +nicht+ ... Sie wissen doch nicht, was Sie von
+mir ... O Sie müssen Gott dankbar sein, Frau Buchner, daß er Ihnen
+Ihre eigene Grausamkeit verborgen hat. Ruchlos mag das sein. Was
+ich gethan habe, mag ruchlos sein. Aber was ich durchgemacht habe,
+-- da! -- innerlich durchgekämpft, durchlitten -- diese furchtbaren
+Peinigungen .... Er hat Alles auf mich geladen -- und am Ende zu allem
+noch diese +verfluchte+ Schuld ......... Aber dennoch .......! _(nach
+einem langen, tiefen Blick, in Ida’s Augen, sich aufringend, bis zu
+einem festen Entschluß)._ Vielleicht -- gelingt es mir -- +dennoch+!
+
+
+
+
+Zweiter Vorgang.
+
+
+_Der Raum ist leer. Sein Licht erhält er zum Theil von einer
+im Treppenraum angebrachten rothen Ampel, dann aber, und zwar
+hauptsächlich, durch die offenen Thüren linker Hand aus dem
+Seitengemach. Hier sitzt man, wie das Klingen der Gläser, das Klappern
+und Klirren von Tellern und Bestecks verräth, bei Tafel._
+
+_(Ida, gleich darauf Wilhelm aus dem Nebengemach)._
+
++Ida+: Endlich! _(einschmeichelnd.)_ Du mußt doch nun an Vater denken,
+Willy! sei mir nicht böse, aber wenn Du Vater etwas -- abzubitten hast,
+dann mußt Du doch nicht warten, bis +er+ zu Dir +herunter+ ..........
+
++Wilhelm+: Wollte Vater zu Tisch ’runterkommen!
+
++Ida+: Versteht sich! Mama hat ihn ....
+
++Wilhelm+ _(umschlingt und preßt Ida plötzlich, mit impulsiver
+Leidenschaftlichkeit stürmisch an sich)_.
+
++Ida+: Ei ..... ach -- Du -- wenn Jemand .... mein Haar wird ja ......
+
++Wilhelm+ _(läßt die Arme schlaff an ihr heruntergleiten, faltet die
+Hände, senkt den Kopf und steht, jäh ernüchtert, wie ein ertappter
+Verbrecher vor ihr)_.
+
++Ida+ _(ihr Haar ordnend)_: Was für ein stürmisches Menschenkind Du
+doch bist.
+
++Wilhelm+: Stürmisch nennst Du das. -- Ich nenne es -- ganz -- anders
+.........
+
++Ida+: Aber Willy! -- warum denn nun auf einmal wieder so
+niedergeschlagen? unverbesserlich bist Du doch.
+
++Wilhelm+ _(ihre Hand krampfhaft fassend, den Arm um ihre Schulter
+legend, zieht er sie hastigen Schrittes mit sich durch den Saal)_:
+Unverbesserlich. Ja, siehst Du! das eben ..... ich fürchte ja nichts so
+sehr, als daß ich ..... als daß alle Deine Mühen um mich vergebens sein
+könnten. Ich bin so entsetzlich wandelbar! _(auf die Stirn deutend)_ da
+hinter ist kein Stillstand! Schicksale in Secunden! mich selbst fürcht’
+ich. Vor sich selbst auf der Flucht sein: kannst Du Dir davon einen
+Begriff machen? Siehst Du, und so fliehe ich -- mein Leben lang.
+
++Ida+: Am Ende .... ach nein das paßt nicht -- --
+
++Wilhelm+: Sag’ doch!
+
++Ida+: Manchmal .... ich hab’ mir nur schon manchmal gedacht ....
+wirklich, es ist mir manchmal so vorgekommen, als ob -- sei nicht böse
+-- als ob garnichts da wäre, wovor Du fliehen müßtest. Ich habe selbst
+schon ....
+
++Wilhelm+: O Du, das glaube nicht! hast Du Robert beobachtet, hast Du
+gesehen?
+
++Ida+: Nein -- was?
+
++Wilhelm+: Hast Du bemerkt, wie er mich begrüßte? Der, siehst Du, der
+weiß, daß ich vor mir fliehen muß, der kennt mich. Frage den nur, der
+wird Dich aufklären! Damit droht er mir nämlich. Du, Du, das weiß ich
+besser. Gieb nur Acht, wie er mich immer anblickt! Ich soll Angst
+kriegen, ich soll mich fürchten. Ha ha ha, -- nein, lieber Bruder,
+so erbärmlich sind wir denn doch nicht. Und nun siehst Du wohl ein,
+Ida, daß ich das nicht zulassen darf, -- ich meine, Du darfst Dir
+keine Illusionen machen über mich. Es giebt nur eine Möglichkeit: ich
+muß offen sein gegen Dich. Ich muß es soweit bringen ..., Ich ringe
+darnach. Wenn Du mich ganz kennst, dann .... Ich meine wenn Du mich
+dann noch erträgst .... oder wenn Du -- mich noch lieben kannst ....
+dann .... das wäre ein Zustand .... dann würde etwas in mich kommen
+.... was Muthiges, Stolzes sag’ ich Dir .... dann lebte doch Einer, und
+wenn sie mich Alle verachteten ................................. _(Ida,
+voller Hingebung, schmiegt sich an ihn.)_
+
++Wilhelm+: Und jetzt .... jetzt werde ich Dir auch .... bevor ich zu
+Vater hinaufgehe .... Du weißt was ich meine?!
+
++Ida+ _(nickt)_.
+
++Wilhelm+: Jetzt sollst Du .... Ich muß es über mich gewinnen Dir zu
+sagen, was mich -- mit meinem -- Vater .... Ja, Ida, -- ich will’s
+thun ........, ....... _(Arm in Arm schreitend)_ Stelle Dir vor! ich
+war hier zu Besuch .... nein -- so kann ich nicht anfangen. -- Ich muß
+weiter zurückgehen. -- Du weißt ja, als ich mich damals schon eine
+lange Zeit selbst durchgeschlagen ........ das hab’ ich Dir wohl noch
+garnicht erzählt?
+
++Ida+: Nein, .... aber ruhig .... nur ja nicht unnöthig .... rege Dich
+nur nicht auf, Willy!
+
++Wilhelm+: Siehst Du das ist wieder so ein Fall: ich bin feig! ich
+habe es bis jetzt nicht gewagt, Dir von meiner Vergangenheit zu
+erzählen .... auf jedenfall ist es auch ein Wagniß. -- Man wagt
+etwas, -- auch vor sich selbst .... einerlei! wenn ich das nicht mal
+über mich brächte, wie sollt’ ich’s dann fertig bringen -- zu Vater
+hinaufzugehen?!
+
++Ida+: Ach, Du! quäle Dich nicht! -- jetzt stürmt so vielerlei auf Dich
+ein.
+
++Wilhelm+: Du hast wohl Furcht? -- wie? Du fürchtest wohl Dinge zu
+hören ....?
+
++Ida+: Pfui, pfui, so mußt Du nicht sprechen!
+
++Wilhelm+: Nun also -- dann stelle Dir vor: hier oben wohnte Vater. Bis
+er Mutter nahm hatte er einsam gelebt, und so wurde es bald wieder; er
+führte sein einsames Sonderlingsleben weiter ........ Mit einem Mal
+verfiel er dann auf uns -- Robert und mich, um Auguste hat er sich
+garnicht gekümmert. -- Volle zehn Stunden täglich hockten wir über
+Büchern .... Wenn ich das Kerkerloch sehe -- heutigen Tags noch ......
+es stieß an sein Arbeitszimmer. Du hast’s ja gesehen!
+
++Ida+: Der große Saal oben --?
+
++Wilhelm+: Ja, der -- Wenn wir in diesen Raum eintraten, da mochte
+die Sonne noch so hell zum Fenster ’reinscheinen, -- für uns war es
+dann Nacht .... Na siehst Du -- da .... da liefen wir eben zur Mutter
+.... Wir liefen ihm einfach fort -- und da spielten sich Scenen ab --:
+Mutter zog mich am linken, Vater am anderen Arm .... Es kam soweit:
+Friebe mußte uns hinauftragen. Wir wehrten uns, wir bissen ihm in die
+Hände; natürlich half das nichts, unser Dasein wurde nur unerträglicher
+............. Aber widerspenstig blieben wir, und nun weiß ich, fing
+Vater an uns zu hassen. Wir trieben es so lange, bis er uns eines Tages
+die Treppe hinunterjagte. Er konnte uns nicht mehr ertragen -- unser
+Anblick war ihm ekelhaft.
+
++Ida+: Aber Dein Vater -- das giebst Du doch zu? -- eine gute Absicht
+hat er doch gehabt mit Euch. Ihr solltet eben viel lernen, wie ....
+
++Wilhelm+: Bis zu einem gewissen Grade mag er ja auch damals eine gute
+Absicht -- vielleicht gehabt haben. Aber wir waren ja zu der Zeit erst
+Jungens von neun oder zehn Jahren und von da ab, hört die gute Absicht
+auf. -- Im Gegentheil: damals hat er die Absicht gehabt, uns total
+verkommen zu lassen. -- Ja, ja! Mutter zum Possen .... Fünf Jahre lang
+waren wir im verwegensten Sinne uns selbst überlassen .... Banditen und
+Tagediebe waren wir .......... Ich hatte noch etwas, ich verfiel auf
+die Musik. Robert hatte nichts -- Aber wir verfielen auch noch auf
+ganz andre Dinge -- deren Folgen wir wohl kaum jemals verwinden werden
+.........................
+
+Schließlich schlug Vater wohl das Gewissen. Es gab fürchterliche Scenen
+mit Mutter. Am Ende wurden wir doch aufgepackt und in einer Anstalt
+untergebracht. Und als ich mich an das Sklavenleben dort nicht mehr
+gewöhnen konnte und davonlief, ließ er mich einfangen und nach Hamburg
+schaffen; Der Taugenichts sollte nach Amerika ... Der Taugenichts lief
+natürlich wieder davon. Ich ließ Eltern Eltern sein und hungerte und
+darbte mich auf meine eigene Faust durch die Welt. Robert hat ungefähr
+die gleiche Carrière hinter sich.
+
+Aber Taugenichtse sind wir deshalb in Vaters Augen doch geblieben ....
+-- später war ich einmal so naiv eine Unterstützung von ihm zu fordern
+-- nicht zu bitten! Ich wollte das Conservatorium besuchen. Da schrieb
+er mir auf einer offenen Postkarte zurück: Werde Schuster. -- Auf diese
+Weise, Ida! sind wir so eine Art ~self made man~ -- aber wir sind nicht
+besonders stolz darauf.
+
++Ida+: -- Wahrhaftig Willy .... ich kann wahrhaftig nicht anders ....
+ich fühle Dir +wirklich Alles+ nach; aber -- ich kann augenblicklich
+nicht ernst .... Sieh mich nicht so fremd an, bitte, bitte!
+
++Wilhelm+: O Du, -- das ist bitter -- und nicht zum Lachen.
+
++Ida+ _(ausbrechend)_: ’S ein +Jubel+gefühl, Wilhelm! ich muß Dir
+sagen .... es mag selbstsüchtig sein, -- aber ich freue mich so
+furchtbar -- daß Du, das so brauchen kannst .... Ich will Dich ja so
+lieb haben, Wilhelm! .... Ich sehe so mit einem Mal Zweck und Ziel.
+Ach, ich bin ganz confus! Ich bedaure Dich ja so sehr. Aber je mehr ich
+Dich bedaure, je mehr freue ich mich. Verstehst Du, was ich meine? Ich
+meine ...... ich bilde mir ein, -- ich könnte Dir vielleicht Alles,
+was Du entbehrt hast .... alle Liebe, die Du entbehrt hast, mein ich,
+könnte ich Dir vielleicht reichlich ....
+
++Wilhelm+: Wenn ich’s nur -- verdiene, -- Du! -- denn nun kommt --
+etwas, -- was mich allein -- betrifft ............ Vor Jahren ....
+nein -- es ist .... Ich kam nämlich später hie und da besuchsweise zur
+Mutter. -- Mach’ Dir’ mal klar, Ida! -- wenn ich so das ganze Elend
+wiedersah .... mach Dir ’mal klar wie mir da -- zu Muthe werden mußte.
+
++Ida+: Deine Mutter -- litt wohl -- sehr?
+
++Wilhelm+: In manchen Dingen, denk’ ich ja heut’ anders über Mutter.
+Immerhin, die Hauptschuld trägt Vater doch. Damals kam mir’s vor, als
+ob er Mutter widerrechtlich hier gefangen hielte. Ich wollte gerade,
+sie sollte sich von ihm trennen.
+
++Ida+: Aber -- das konnte Deine Mutter -- garnicht, das, --
+
++Wilhelm+: Sie folgte mir ja auch nicht. Sie hatte nicht den Muth. --
+Nun -- mit welchen Augen ich Vater ansah .... nun, das kannst Du Dir
+vielleicht denken.
+
++Ida+: Sieh’ mal Wilhelm! -- Du warst vielleicht doch nicht ganz
+gerecht gegen Deinen Vater .... Ein Mann ....
+
++Wilhelm+ _(ohne Ida’s Einwurf zu beachten)_: Einmal -- beging ich --
+die Thorheit -- einen Freund von mir .... Unsinn Freund .... flüchtiger
+Bekannter, -- ein Musiker .... Ich brachte ihn also mit hierher. Das
+war eine Auffrischung für Mutter. Sie spielte nämlich -- eine Woche
+lang --, täglich mit ihm vierhändig ........ Da also .... haarsträubend
+.... so wahr wie ich vor Dir stehe --; kein Schatten einer Möglichkeit!
+-- und am Ende der Woche -- schrieen es ihr -- Dienstboten -- in’s
+Gesicht.
+
++Ida+: Verzeih’! .... Ich .... Um was --?
+
++Wilhelm+: Mutter! .... Mutter sollte .... Meine Mutter sollte ....
+Sie sollte -- denke Dir! sie wagten es ihr offen vorzuwerfen, daß sie
+-- ein schlechtes -- Verhältniß -- mit .... das heißt! ich stellte die
+Person zur Rede .... frech .... der Kutscher hätte es ihr gesagt ....
+ich zum Kutscher und der .... der .... der will es .... der sagt mir
+geradezu, ich habe es vom Herrn .... vom Herrn selber -- .... Natürlich
+.... wo werde ich ihm denn so was glauben?! -- oder -- wenigstens --
+sträubte ich mich -- bis -- ich -- ein Gespräch -- belauschte, -- was
+Vater -- im Stall .... im Pferdestall mit dem Burschen -- hatte, --
+und -- Du kannst mir -- glauben: -- die Hände -- starben -- mir -- ab,
+-- wie ich -- ihn da -- über meine -- Mutter -- reden hörte.
+
++Ida+: Sei doch nur .... Laß Dich doch nur .... reg’ Dich doch blos
+nicht so +furchtbar+ auf. Du bist ja ganz ....
+
++Wilhelm+: Ich weiß nicht mehr .... Ich weiß nur .... Es steckt etwas
+in uns Menschen .... der Wille ist ein Strohhalm .... man muß so etwas
+durchmachen .... Es war wie ein Einsturz ... Ein Zustand wie ....
+und in diesem Zustand befand ich mich plötzlich in Vaters Zimmer.
+-- Ich sah ihn. -- Er hatte irgend etwas vor -- ich kann mich nicht
+mehr besinnen was. -- Und da -- hab’ ich ihn -- buchstäblich -- mit
+-- diesen -- bei -- den Händen -- ab--ge--straft. _(Er hat Mühe sich
+aufrecht zu erhalten)._
+
++Ida+ _(Ihre Augen stehen voll Thränen, die sie trocknet. Bleich und
+erschüttert starrt sie einige Augenblicke auf Wilhelm hin, dann küßt
+sie still weinend seine Stirn)_.
+
++Wilhelm+: Du -- Barmherzige.
+
+_(Man hört die Stimme des Doktors von der Treppe her.)_
+
++Wilhelm+: Und nun, -- wenn je! _(Er rafft sich auf, Ida küßt ihn
+nochmals. Er hat krampfhaft ihre Hand gefaßt. Wie die Stimme des
+Doktors schweigt, hört man fröhliches Gelächter aus dem Nebenzimmer.)_
+
++Wilhelm+ _(mit Bezug auf das Lachen, wie auch auf das Kommen des
+Doktors, den man die Treppe herunter steigen hört.)_: Ihr habt eine
+wunderbare Macht! _(Ein Händedruck beiderseitiger Ermuthigung, dann
+trennt sich Ida von Wilhelm. Bevor sie abgeht, kehrt sie noch mal um,
+faßt Wilhelms Hand und sagt:)_ Sei tapfer! _(ab.)_
+
+~Dr.~ +Scholz+: _(noch auf der Treppe.)_ Ä! großer Unsinn! .... rechts
+Friebe! -- ä! Ellbogen .... nicht halten, nicht halten! Donnerwetter!!!
+
++Wilhelm+ _(je weiter der Doktor herunterkommt, um so aufgeregter
+erscheint Wilhelm. Seine Farbe wechselt oft, er fährt sich durch die
+Haare, athmet tief, macht die Bewegungen des Klavierspielens mit der
+Rechten ⁊c. Hierauf ist deutlich wahrzunehmen, wie Strömungen für und
+wieder in ihm kämpfen, -- wie er in seinem Entschluß wankend wird. Er
+scheint fliehen zu wollen, da bannt ihn das Hervortreten des Doktors.
+Er hat eine Stuhllehne gefaßt, um sich zu stützen und steht zitternd
+und bleich da. Der Doctor ist ebenfalls, zu seiner vollen imponirenden
+Größe aufgerichtet stehen geblieben und mißt seinen Sohn mit einem
+Blick, der nacheinander Schreck, Haß und Verachtung ausdrückt. Es
+herrscht Stille; Friebe, der den Doctor stützend und ihm vorleuchtend
+ebenfalls eingetreten in, benützt dieselbe, um sich davonzuschleichen,
+ab in die Küche. Wilhelm scheint einen Seelenkampf physisch
+durchzuringen. Er will reden, die Kehle scheint ihm zu versagen, es
+kommt nur zu lautlosen Bewegungen der Lippen. Er nimmt die Hand von
+der Stuhllehne und schreitet auf den Alten zu. Er geht unsicher, er
+taumelt, er kommt in’s Wanken, steht, will auf’s Neue reden, vermag es
+aber nicht, schleppt sich weiter und bricht die Hände gefaltet, zu des
+Alten Füßen nieder. In des Doctors Gesicht hat der Ausdruck gewechselt:
+Haß, Staunen, erwachendes Mitgefühl, Bestürzung.)_
+
+~Dr.~ +Scholz+: Junge .... mein lieber Junge! mein .... _(er sucht ihn
+bei den Händen zu erheben.)_ Steh, doch nur -- auf! .... _(er faßt
+Wilhelm’s Kopf, der schlaff hängt, zwischen beide Hände und kehrt ihn
+sich zu.)_ Sieh’ mich .... Junge .... sieh’ mich doch ’mal -- an. Ach,
+was ist denn -- mit ....?
+
++Wilhelm+ _(bewegt die Lippen)_.
+
+~Dr.~ +Scholz+ _(mit bebender Stimme)_: Was ... was ... sagst Du zu
+mir? ich ...
+
++Wilhelm+: V ... Vater -- ich ....
+
+~Dr.~ +Scholz+: Wie -- meinst Du --?
+
++Wilhelm+: Ich -- habe Dich .. habe Dich .... h ... h ...
+
+~Dr.~ +Scholz+: Unsinn, Unsinn! jetzt nicht von solchen .....
+
++Wilhelm+: Ich bin -- an Dir -- zum Verbrecher ....
+
+~Dr.~ +Scholz+: Unsinn, Unsinn! ich weiß garnicht, was Du willst? alte
+Sachen sind alte Sachen. Thu mir die einzige Liebe, Junge! ...
+
++Wilhelm+: Nun -- nimm’s von mir! nimm -- die Last von mir!
+
+~Dr.~ +Scholz+: Vergeben und vergessen, Junge! vergeben und vergessen
+.....
+
++Wilhelm+: Dank .... _(er athmet tief auf, das Bewußtsein verläßt ihn.)_
+
+~Dr.~ +Scholz+: Junge! was machst Du mir denn für Sachen! was .....
+
+_(Er hebt und schleppt den Ohnmächtigen allein bis in einen in der Nähe
+stehenden Lehnstuhl. Bevor er ihn niedergesetzt hat, kommen +Ida+,
++Robert+, +Auguste+, +Frau Scholz+ und +Frau Buchner+ hastig aus dem
+Nebengemach, +Friebe+ aus der Küche.)_
+
+~Dr.~ +Scholz+: Wein! schnell etwas Wein!
+
++Ida+ _(geht und ist sogleich mit Wein zurück)_.
+
++Frau Scholz+: O Gottogottogott! Wasser! .. gleich mit Wasser
+besprengen!
+
+~Dr.~ +Scholz+ _(flößt ihm Wein ein)_.
+
++Auguste+: Was war denn?
+
++Ida+ _(bleich und in Thränen, legt ihre Wange an die Wilhelms)_: Wie
+eiskalt er sich anfühlt.
+
++Frau Scholz+: Ueber was hat sich denn der Junge blos so aufgeregt, das
+möcht’ ich blos wissen: ... das ist mir doch rein ....
+
++Robert+ _(ihre Hand fassend und zugleich ihre Rede abschneidend,
+verweisend)_: Mutter!!!
+
++Frau Buchner+: Besprengen, besprengen, Herr Doctor!
+
+~Dr.~ +Scholz+: Pst, pssst, habt Ihr .. haben Sie vielleicht ~eau de
+Cologne~?
+
++Frau Buchner+: Ja _(sie giebt ihm ein Flacon)_, bitte.
+
+~Dr.~ +Scholz+: Danke _(er bestreicht dem Ohnmächtigen die Stirn)_.
+
++Ida+ _(zum Doctor)_: Es ist -- doch hoffentlich ... nicht
+wahr? nur ... _(sie bricht in Schluchzen aus)_ ach er sieht so
+schrecklich rührend aus, wie ..... wirklich wie -- todt sieht er aus.
+
++Robert+ _(tröstet Ida)_.
+
++Frau Scholz+: Wie der Junge blos schwitzt! _(sie wischt ihm die
+Stirn.)_
+
++Wilhelm+ _(gähnt)_.
+
+~Dr.~ +Scholz+: Pst. _(er und Alle blicken mit Spannung auf Wilhelm.)_
+
++Wilhelm+ _(räuspert sich, dehnt sich, öffnet und schließt die Augen,
+wie ein Schlaftrunkener, legt den Kopf wie zum Schlaf zurück.)_
+
+~Dr.~ +Scholz+ _(hörbar)_: Gott sei dank!
+
+_(Er richtet sich auf, wischt sich die Stirn mit dem Taschentuch
+und mustert gerührt und halb verlegen seine Umgebung. Ida ist ihrer
+Mutter unter Lachen und Weinen um den Hals gefallen. Robert steht
+kaum Herr seiner Bewegung mit gefalteten Händen da und läßt seine
+Blicke abwechselnd über alle Anwesenden hingleiten. Auguste geht, das
+Taschentuch zusammengeballt vor dem Munde, hastig auf und ab, und
+hält jedes Mal im Vorübergehen einen Augenblick vor Wilhelm inne, um
+ihn forschend zu betrachten. Friebe geht auf den Zehenspitzen ab. Des
+Doctors Blick trifft den seiner Frau. Schüchtern und gerührt wagt sie
+sich näher, faßt leise seine Hand und klopft ihn auf den Rücken.)_
+
++Frau Scholz+: Alterchen --!
+
++Auguste+ _(ahmt die Mutter nach, umarmt und küßt dann den Vater, was
+dieser geschehen läßt, ohne seine Hand aus der seiner Frau zu nehmen.)_
+
++Auguste+ _(an seinem Halse)_: Mein Herzensväterchen!
+
++Robert+ _(plötzlich entschlossen tritt er auf seinen Vater zu und
+schüttelt ihm die Hand)_.
+
++Frau Scholz+ _(giebt des Doctors Hand frei und führt ihm Ida zu)_.
+
+~Dr.~ +Scholz+ _(blickt erst Ida dann Wilhelm an und richtet einen
+fragenden Blick auf Frau Buchner)_.
+
++Frau Buchner+ _(nickt bejahend)_.
+
+~Dr.~ +Scholz+ _(macht eine Gebärde, die etwa ausdrückt: ich will
+nichts verreden, ich kann mich vielleicht täuschen. Hierauf streckt er
+dem Mädchen seine Hand entgegen)_.
+
++Ida+ _(kommt, nimmt seine Hand, beugt sich darauf nieder und küßt
+sie)_.
+
+~Dr.~ +Scholz+ _(zieht seine Hand gleichsam erschreckt zurück)_.
+
++Wilhelm+ _(seufzt tief auf. Alle erschrecken)_.
+
++Auguste+ _(in der Thür zum Nebengemach winkt Frau Scholz, dann ab)_.
+
++Frau Scholz+ _(macht dem Doctor Zeichen, die besagen: man solle sich
+in’s Nebengemach begeben, des Patienten wegen)_.
+
+~Dr.~ +Scholz+ _(nickt bestätigend und entfernt sich Hand in Hand mit
+Frau Scholz behutsam)_.
+
++Frau Buchner+ _(der Ida bedeutet hat, sie wolle bei Wilhelm bleiben,
+ebenfalls ab in’s Nebenzimmer)_.
+
++Robert+ _(leise)_: Fräulein Ida, würden Sie ... möchten Sie mir wohl
+die Wache diesmal überlassen?
+
++Ida+ _(freudig überrascht)_: Herzlich gern! _(Händedruck ab in’s
+Nebengemach.)_
+
++Robert+ _(rückt einen Stuhl neben den Wilhelm’s und läßt sich, den
+Schlafenden beobachtend, darauf nieder. Nach einem Weilchen zieht er
+seine Tabakspfeife aus der Tasche, um sie in Brand zu setzen, erinnert
+sich aber zur rechten Zeit der Gegenwart des Patienten und steckt sie
+sogleich wieder ein)_.
+
++Wilhelm+ _(seufzt, streckt die Glieder)_.
+
++Robert+ _(leise und behutsam)_: Wilhelm.
+
++Wilhelm+ _(räuspert sich, schlägt die Augen fremd und verwundert auf
+und sagt nach einer Weile -- als hätte ihn die Anrede Roberts erst
+jetzt getroffen)_: -- Ja!
+
++Robert+: Wie ist Dir denn jetzt?
+
++Wilhelm+ _(nachdem er Robert eine Weile nachdenklich angeblickt hat,
+mit schwacher Stimme)_: Robert? -- nicht?
+
++Robert+: Ja -- ich bin’s ... Robert .. wie geht’s Dir denn?
+
++Wilhelm+: Gut _(räuspert sich)_ ganz gut -- jetzt. _(er lächelt
+gezwungen, macht einen schwachen Versuch, sich zu erheben, der fehl
+schlägt.)_
+
++Robert+: O, Du! das ist doch wohl noch ein Bischen gar zu zeitig,
+nicht?
+
++Wilhelm+ _(nickt bejahend, seufzt, schließt erschöpft die Augen)_
+..................
+
++Wilhelm+ _(schlägt die Augen groß und ruhig auf und spricht leise aber
+klar)_: Was ist denn eigentlich passirt? -- hier? --
+
++Robert+: Ich glaube, Wilhelm! es wird das Beste sein, wir lassen das
+vorläufig auf sich beruhen ..... Die Versicherung geb’ ich Dir: etwas
+... ich jedenfalls hätte es niemals für möglich gehalten.
+
++Wilhelm+ _(vergeistigt)_: -- Ich -- auch nicht.
+
++Robert+: -- Wie soll man denn auch ... ä! Kohl! das war ja auch
+absolut nicht vorauszusehen! -- aber es ist eben doch vorgefallen.
+
++Wilhelm+: Ja -- nun fällt mir -- nach und nach ... es -- war --
+lieblich! _(seine Augen füllen sich mit Thränen.)_
+
++Robert+ _(mit leisem Beben in der Stimme)_: Ein sentimentales
+Weibsbild ist man doch ......................... So viel steht wieder
+’mal bombenfest: man hat wieder ’mal so in’s Blaue ’nein verdammt.
+Gekannt haben wir den Alten doch nicht, -- das können wir doch wohl
+nich’ gerade behaupten.
+
++Wilhelm+: Vater? -- nein! wir sind ja Alle -- so blind, so blind!
+
++Robert+: Das -- weiß Gott! -- sind wir ....................
+
++Wilhelm+: Wie mir das vorkommt! -- wunderfremd. Er liebt uns ja! der
+alte Mann ist ja so himmlisch gut!
+
++Robert+: Das +kann+ er sein, und das wußte ich bis jetzt nicht.
+
++Wilhelm+: Mir dämmert manches! ......................
+
++Robert+: Mit dem Verstande -- und so -- sieh ’mal -- hat ich das ja
+längst erfaßt. -- Alles ist +geworden+. Verantwortlich hab’ ich Vater
+nicht gemacht. -- Heißt das, schon seit Jahren nicht mehr. -- Nicht für
+mich, überhaupt für Keinen von uns. Aber heut hab’ ich’s +gefühlt+;
+und das ist, kannst Du glauben, noch ganz was andres ................
+Ehrlich, mich hat’s geradezu aus dem Gleichgewicht gebracht. -- Als
+ich ihn so sah -- so um Dich bemüht ... förmlich, wie ein Schlag war
+mir da! -- und nun muß ich mir immer sagen: -- warum ist denn das nun
+nicht ..... na warum denn nicht? es ist doch jetzt in uns lebendig
+geworden, es war doch also in uns -- warum ist es nicht schon früher
+hervorgebrochen? In Vater, in Dir -- und in mir wahrhaftigen Gott auch?
+es war doch in uns! Und nun hat er das so in sich hinein gewürgt --
+Vater mein ich -- na und wir ja auch -- so viele Jahre lang .....
+
++Wilhelm+: Das ist mir nun aufgegangen: ein Mensch kehrt nicht
+nur jedem seiner Mitmenschen eine andere Seite zu, sondern er ist
+thatsächlich jedem gegenüber von Grund aus anders ........
+
++Robert+: Warum muß denn das so sein zwischen uns! warum müssen denn
+wir uns nur immer und ewig abstoßen?
+
++Wilhelm+: Das will ich Dir sagen: Herzensgüte fehlt uns! nimm z. B.
+Ida! Was Du Dir erklügelt hast, das lebt in ihr. Sie sitzt nie zu
+Gericht, Alles greift sie so weich, so mitleidig an -- die zartesten
+Dinge -- das schont so, verstehst Du! das ... und das glaub’ ich ist es
+.............................
+
++Robert+ _(manlig werdend, sich erhebend)_: Wie ist Dir jetzt so? --
+
++Wilhelm+: Recht frei ist mir doch jetzt ....
+
++Robert+: Ä -- was nutzt das Alles! .... Ja -- was ich wollte -- sagen?
+vielleicht wird’s doch gut mit Euch!
+
++Wilhelm+: Was denn?
+
++Robert+: Na, wie denn? Du und ... na, und Ida natürlich.
+
++Wilhelm+: Vielleicht! ... Die Beiden haben eine Macht -- auch Frau
+Buchner -- aber doch Ida hauptsächlich. Ich habe gedacht, das könnte
+mich retten .......... Zuerst wehrte ich mich ja ...............
+
++Robert+ _(gedankenvoll)_: Das haben sie! -- sie haben eine Macht und
+deshalb ..... anfänglich -- offen gesagt, hab’ ich’s Dir verübelt.
+
++Wilhelm+: Das fühlte ich wohl.
+
++Robert+: Na, nimm ’mal an: ich hörte von einer Verlobung, und nun sah
+ich Ida; treppauf, treppab sang sie und so fröhlich -- ohne eine Idee
+von ....
+
++Wilhelm+ _(erhebt sich)_: Ich verstand Dich ja auch, ich gab Dir ja
+sogar recht, was willst Du!
+
++Robert+: Nu ja doch! -- ich bin ja auch ... es ist ja auf diese Weise
+ganz was anders. -- Ich muß ja zugeben ... wie gesagt ... überhaupt ..
+ganz frisch schon?
+
++Wilhelm+: Vollkommen.
+
++Robert+: Dann kommst Du wohl also bald?
+
++Wilhelm+: Ich will nur noch .... geh doch einstweilen Du!
+
++Robert+: Schön! _(geht, kommt zurück)_ hör ’mal Du! ich kann nicht
+anders, ich muß Dir sagen, Deine ganze Handlungsweise -- Vater
+gegenüber -- und auch -- überhaupt, ist hochachtenswerth. Ich hab’ Dich
+auch so -- überfallen förmlich -- mit meiner verfluchten Bornirtheit.
+Man .... hol’s der Teufel! Ich habe seit langer Zeit wieder zum ersten
+Male so ’ne Art unabweisbares Bedürfniß, verstehst Du! mich selbst
+anzuspucken. Das genügt Dir doch, wie? -- na, Du wirst mir doch nun
+auch die Liebe thun und -- wenn ich Dich .... ja wohl, gekränkt habe
+ich Dich ununterbrochen, seit Du hier bist. Also -- es thut mir leid!
+hörst Du!
+
++Wilhelm+: Bruder! _(sie schütteln sich mit Rührung die Hände.)_
+
++Robert+ _(zieht ruhig die Hand aus der Wilhelms, bringt seine
+Tabackspfeife hervor, entzündet sie, pafft, und sagt dabei vor sich
+hin)_: Acrobaten -- seele! -- pf! pf! na ~item~. _(Hierauf wendet
+er sich zum Gehen. Bevor er die Thüre des Seitengemaches ausklinkt,
+spricht er über die Schultern zu Wilhelm:)_ Ich -- will sie Dir
+herausschicken!
+
++Wilhelm+: Ach -- Du laß doch! .... na -- wenn Du ....
+
++Robert+ _(nickt bejahend, verschwindet in der Thür. Ab.)_
+
++Wilhelm+ _(athmet befreit auf. Volle Freude über das Geschehene
+bemächtigt sich seiner.)_
+
++Ida+ _(kommt aus dem Nebenzimmer, fliegt in seine Arme)_: Willy!!!
+
++Wilhelm+: -- Jetzt -- jetzt .... Du .... Ihr .... Ihr beiden goldnen
+Seelen habt mich losgekämpft. Jetzt -- ein ganz neues Leben! .... Du
+glaubst nicht, wie mich das hebt! ordentlich groß stehe ich vor mir
+da! -- O Du! das merke ich jetzt erst -- das hat doch furchtbar auf
+mir gelastet .... Und nun fühl’ ich auch Kraft! Kraft fühle ich, Du!
+-- verlaß Dich d’rauf, ich erreiche es nun doch noch! ich werd’s ihm
+zeigen, was der Taugenichts kann! ich werde Vater den Beweis liefern.
+Ich werde ihm beweisen, daß etwas in mir lebt: eine Kraft, eine Kunst,
+vor der sie sich beugen sollen .... die starrsten Köpfe werden sich
+beugen, ich fühl’s! -- das hat mich nur niedergeknebelt, glaubst Du!
+es kribbelt mir in den Fingerspitzen, glaubst Du! .... Ich möchte
+schaffen, schaffen! ....
+
++Ida+: Siehst Du, so ist’s recht! nun endlich hast Du Dich
+wiedergefunden. -- Liebster, ich möchte jauchzen. -- Jauchzen
+möcht ich. -- jubeln .... Siehst Du, wie ich recht hatte; nichts
+ist erstorben in Dir! es schlief nur! Es wacht Alles wieder
+auf, sagt’ ich Dir immer. Es ist aufgewacht, siehst Du nun!
+..................................
+
+_(Sie umarmen, küssen sich und schreiten dann in einander verschlungen
+in stummer Glückseligkeit durch den Saal.)_
+
++Wilhelm+ _(bleibt stehn, schaut mit glücklichem Staunen in die
+Augen seiner Braut, dann läßt er den Blick weiter schweifen, rings
+herum durch den Raum und sagt)_: In diesen eiskalten Mauern .... wie
+Frühlingszauber ist das!
+
+_(Einige Küsse; eng verschlungen stumm im Glück schreiten sie weiter.)_
+
++Ida+ _(singt piano mit schelmischer Beziehung auf etwas in der
+Vergangenheit; etwas, wie: nun, siehst Du wie recht ich hatte.)_
+
+Wenn im Hag der Lindenbaum Wieder blühet, Huscht der alte
+Frühlingstraum ...
+
++Frau Scholz+ _(tritt ein, gewahrt die Beiden, will sich schnell wieder
+entfernen)_.
+
++Ida+ _(hat es bemerkt, bricht ihr Lied ab, fliegt auf Frau Scholz
+zu)_. Nicht fortlaufen, Schwiegermuttelchen!
+
++Frau Scholz+: I warum nich’ gar! Ihr könnt mich ja garnicht brauchen.
+
++Wilhelm+: _(umarmt und küßt seine Mutter und hilft sie mit
+hereinziehen)_.
+
++Frau Scholz+ _(launig)_: Du bist wohl nich’ recht gescheidt. Ihr seid
+wohl ... Ihr reißt mir ja ...
+
++Wilhelm+: Ach was, Mutter! das ist ja jetzt Alles einerlei -- Mutter!
+Du siehst einen anderen Menschen vor Dir _(zwischen Mutter und Braut,
+beider Hände haltend.)_ Komm, altes Mamachen; -- seht Euch in die
+Augen! -- so -- gebt Euch die Hände!
+
++Frau Scholz+: Närr’scher Kerl!
+
++Wilhelm+: Küßt Euch!
+
++Frau Scholz+ _(nachdem sie sich mit der Schürze über den Mund
+gefahren)_: Na, dummer Kerl! -- das .... da ist doch weiter nichts
+dabei .... da brauchst Du uns doch nicht .... gelt Ida! _(sie küssen
+sich lachend)._
+
++Wilhelm+: Und nun Friede!
+
++Frau Scholz+: Nich berufen, Junge!
+
++Friebe+: _(eine dampfende Punschterine tragend, aus der Küche in das
+Nebengemach)_.
+
++Wilhelm+: Oho!!! -- na dann also ... Friebe! ist er gut?
+
++Friebe+ _(im Vorübergehen)_: I, von det Zeich kenn’n Se mer dreiste
+wat vorsetzen, da bring ick ooch noch keen’n Schluck nich ieber de
+Lippen.
+
++Wilhelm+: Nich’ möglich, Friebe!
+
++Friebe+: Friher, ja -- jetzt, bin ick -- längst abjeschmissen. Jetz’
+trink ick -- nur -- mehrschtentheels -- b. -- bitt’ren Schnaps _(ab)_.
+
++Ida+ _(hat Wilhelm die Cravatte in Ordnung gebracht und den Rock
+zurecht gerückt)_: So nu ....
+
++Wilhelm+: Schon gut, Du! -- ist Vater heiter?
+
++Frau Scholz+: Er erzählt so. -- Manchmal versteht man’s garnicht.
+
++Wilhelm+: Das Herz pocht mir doch wieder!
+
++Frau Scholz+: Wenn nur Robert nich’ so viel tränke.
+
++Wilhelm+: Ach Mutter heut .... heut ist das ja Alles einerlei! heut
+....
+
++Ida+: Nun komm schnell, eh Dir erst wieder ...
+
++Wilhelm+ _(zu Frau Scholz)_: Gehst Du mit?
+
++Frau Scholz+: Geht nur, geht!
+
+_(Ida und Wilhelm ab in’s Nebenzimmer.)_
+
++Frau Scholz+ _(... steht, sinnt nach, streicht sich mit der Hand die
+Stirne und begiebt sich zu Folge eines plötzlichen Einfalls an die Thür
+des Nebengemachs, wo sie lauscht.)_
+
++Friebe+ _(tritt durch eben dieselbe Thür ein. Man merkt nun deutlich:
+er ist angeheitert)_: Frau Doktor!
+
++Frau Scholz+: Was wollen Sie?
+
++Friebe+ _(pfiffig geheimnißvoll)_: Ma hat sei Wunder, Frau Sch--olzen.
+
++Frau Scholz+ _(zurückschreckend)_: Sie haben -- zu viel getrunken! Sie
+...
+
++Friebe+: Ick -- lauer’ schon -- uf alle Arten, det ick .... det ick
+und ick wollte Sie wat mittheilen.
+
++Frau Scholz+: Na ja, ja, ja! sagen Sie nur schnell, was Sie zu sagen
+haben.
+
++Friebe+: Na, ick meen man blos ....
+
++Frau Scholz+: So reden Sie doch nur, Friebe!
+
++Friebe+: Ick meen man blos! -- det is doch nich taktmäßig. In diese
+F ..... Funktion -- da sind ooch all noch ville Sachen -- wo ick ooch
+verschweigen muß .... ick meen man blos -- Ihr +Mann+ -- der kann’t
+unmeejlich mehr lange machen ....
+
++Frau Scholz+: O Jesis, Jesis, Friebe! hat er denn .... o Jesis! hat er
+denn geklagt? is’ er denn krank?
+
++Friebe+: Na, uff so wat -- versteh ick mir doch?!
+
++Frau Scholz+: Ueber was klagt er denn?
+
++Friebe+: Ick sollt’ ja -- aber -- nich’ -- sagen.
+
++Frau Scholz+: Is’ es denn ernst? _(Friebe nickt bestätigend.)_ Er kann
+doch aber nich’ vom Tode gesprochen haben?
+
++Friebe+: Er hat sich -- sogar -- noch mehr -- sone Sachen bedient,
+aber ...
+
++Frau Scholz+: Na nu drücken Sie sich doch endlich deutlich aus. Trinkt
+der Mensch ....!
+
++Friebe+ _(aufgebracht)_: Ja ick .... na Järtner -- un’ Schuhwichser
+.... un’ was da allens vorfallen duht .... nee! -- ick brauch mir det
+nich’ .... in jede Funktion .... das .... in diese Funktion kommt --
+allens vor -- aber nee! .... da haben se -- det Janze ........ klar
+.... punkt! .... _(er macht kehrt, ab in die Küche)_.
+
++Frau Scholz+: Der Mensch ist verrückt geworden.
+
++Ida+ _(im Hin durch die Thüre des Nebenzimmers, diese hinter sich
+zudrückend. Sie ein klein wenig wieder öffnend, ruft sie ins Gemach
+zurück)_: Warten, Herrschaften! ruhig und folgsam warten!
+
++Wilhelm+ _(sich hineindrängend)_: Ich will Dir ja nur helfen.
+
++Ida+: Aber sonst Niemand!
+
+_(Ida und Wilhelm entzünden die Christbaumlichte.)_
+
++Frau Scholz+: Du! -- hör ’mal! -- Wilhelm!
+
++Wilhelm+ _(beschäftigt)_: Gleich, Mutterchen! -- wir sind gleich
+fertig.
+
+_(Der Christbaum, die Girandolen und der Kronleuchter stehen im Licht.
+Ida nimmt eine große Decke, welche über die Geschenke auf der Tafel
+gebreitet war, von diesen herunter.)_
+
++Wilhelm+ _(tritt zur Mutter)_.
+
++Ida+ _(ruft durch die Thüre des Seitengemachs)_: Jetzt.
+
++Frau Scholz+ _(ist im Begriff Wilhelm etwas mitzutheilen, als sie
+durch den Eintritt des ~Dr.~ Scholz gestört wird. Es folgen nun:
+Auguste, Robert und Frau Buchner.)_
+
+~Dr.~ +Scholz+ _(vom Trinken geröthetes Gesicht. Mit affektirtem
+Staunen.)_ Ah! ah!
+
++Frau Buchner+: Feenhaft!
+
++Auguste+ _(befangen lächelnd.)_
+
++Robert+ _(umgeht, die Pfeife im Munde, erst befangen, dann mehr und
+mehr ironisch lächelnd, den Raum)_.
+
++Ida+ _(hat Wilhelm, der darob äußerst betreten ist, zu dem Platze
+geführt, wo seine Geschenke liegen)_: Lach’ mich nicht aus, Willy!
+_(sie hält ihm die Börse hin.)_
+
++Wilhelm+: Nein aber, Ida! -- ich hab’ Dich doch gebeten ....
+
++Ida+: Ich hatte sie ’mal für Vater gehäkelt. Das letzte Jahr vor
+seinem Tode hat er sie viel getragen. Da dacht’ ich ....
+
++Wilhelm+ _(unter den Blicken der Beobachter mit steigender
+Verlegenheit)_: Ja wohl ... so so ... vielen Dank, Ida!
+
++Robert+: Die Dinger müßten nur praktischer sein.
+
++Frau Scholz+ _(durch Frau Buchner ebenfalls an den Tisch geführt)_:
+Aber was machst Du denn nur für Geschichten? ich kann Euch ja garnichts
+.... ich hab’ ja garnichts für Euch _(vor einem gehäkelten Tuche)_ nein
+... nein ... ne Du -- thu mer die Liebe! das hast Du für mich gehäkelt?
+ne sag’ mer nur -- fer mich alte Frau? na da dank’ ich Dir auch
+vielmals schön _(sie küssen sich.)_
+
++Frau Buchner+: Ach ich -- freu’ mich nur, wenn Dir’s gefällt.
+
++Frau Scholz+: Prachtvoll! -- wundervoll -- wunderschön! wie viele Zeit
+und Mühe! ne! ....
+
++Ida+: Auch für Sie hätt’ ich was Herr Robert! Sie dürfen mich aber
+nicht auslachen!
+
++Robert+ _(über und über roth werdend)_: Ä -- zu was denn!
+
++Ida+: Ich hab mir’ gedacht -- Ihre +Tabakspfeife+ -- die wird
+Ihnen nächstens die Nasenspitze verbrennen -- und da hab ich mich
+Ihrer erbarmt und noch gestern schnell .... _(sie zieht eine neue
+Tabakspfeife, die sie auf dem Rücken gehalten, hervor und überreicht
+sie ihm)_ da ist das Prachtstück!
+
+_(Allgemeine Heiterkeit.)_
+
++Robert+ _(ohne ihr die Pfeife abzunehmen)_: Sie scherzen, Fräulein!
+
++Ida+: Na ja! aber mit dem Schenken ist’s mir bitter Ernst.
+
++Robert+: Ach nein doch, nein doch, das glaub’ ich nicht!
+
++Frau Scholz+ _(entrüstet leise zu Wilhelm)_: Robert ist
++unausstehlich+!
+
++Ida+: Aber nein, wirklich!
+
++Robert+: Sehen Sie -- dies Ding da .... ich habe mich so d’ran gewöhnt
+.... i, und Sie scherzen ja auch wirklich nur!
+
++Ida+ _(die Augen voll Thränen. Ihren Schmerz bemeisternd und mit
+zitternder Stimme)_: Nun -- ja -- wenn Sie -- meinen _(sie legt das
+Geschenk auf den Tisch zurück)_.
+
++Frau Buchner+ _(hat während des letzten Gesprächs mehreremals leise
+Ida gerufen: nun eilt sie auf sie zu)_: Idchen -- hast Du denn
+vergessen?
+
++Ida+: Was denn Mama?
+
++Frau Buchner+: Du weißt doch! _(Zu den Uebrigen)_ nun sollen sie noch
+etwas zu hören bekommen.
+
+_(Ida, froh auf diese Weise ihre Bewegung verbergen zu können, folgt
+ihrer Mutter, die sie an der Hand gefaßt hat, in’s Nebenzimmer.)_
+
++Frau Scholz+ _(zu Robert)_: Warum hast Du ihr die Freude verdorben?
+
++Wilhelm+ _(geht, die Enden seines Schnurrbartes nervös kauend, unruhig
+umher und wirft ab und zu drohende Blicke auf Robert.)_
+
++Robert+: Was denn? wie denn? ich weiß garnicht, was Du willst?
+
++Auguste+: Na, freundlich war das allerdings nicht gerade.
+
++Robert+: Laßt mich doch zufrieden! und überhaupt: was soll ich denn
+damit.
+
+_(Gesang und Klavierspiel, aus dem Nebenzimmer dringend, unterbricht
+die Sprechenden. Alle blicken einander erschrocken an.)_
+
++Idas+ Stimme:
+
+    Ihr Kinderlein kommet,
+    O kommet doch all!
+    Zur Krippe herkommet
+    In Bethlehems Stall,
+    Und seht, was in dieser
+    Hochheiligen Nacht
+    Der Vater im Himmel
+    Für Freude uns macht!
+
+~Dr.~ +Scholz+ _(ist über das Verhalten Roberts immer finsterer
+geworden. Bei Beginn des Gesanges blickt er scheu -- wie Jemand, der
+einen Angriff fürchtet -- umher und sucht einen gewissen Abstand
+zwischen sich und jedem der Anwesenden möglichst unauffällig
+festzuhalten)_.
+
++Frau Scholz+ _(bei Beginn des Gesanges)_: Ach wie schön! _(einen
+Augenblick lauscht sie hingegeben, dann bricht sie in Schluchzen aus.)_
+
++Robert+ _(bewegt sich langsam, macht wie der Gesang anhebt ein
+Gesicht, wie: na nu hört’s auf, schreitet weiter, lächelt ironisch und
+schüttelt mehrmals den Kopf. Im Vorübergehen sagt er halblaut etwas zu
+Auguste)_.
+
++Auguste+ _(halb und halb gerührt, platzt nun heraus)_.
+
++Wilhelm+ _(hat bisher, ein Spiel widersprechender Empfindungen, an die
+Tafel gelehnt -- auf der Platte nervös Clavier spielend -- gestanden;
+nun steigt ihm die Röthe der Entrüstung in’s Gesicht.)_
+
++Robert+ _(scheint gegen Ende des Gesanges unter den Tönen physisch zu
+leiden. Die Unmöglichkeit, sich den Eindruck derselben zu entziehen,
+scheint ihn zu foltern und mehr und mehr zu erbittern. Unmittelbar nach
+Schluß des Verses entfährt ihm -- gleichsam als Trümmerstück eines
+inneren Monologes -- unwillkürlich das Wort)_: Kinderkomödie, _(in
+einem beißenden und wegwerfenden Tone)_.
+
+_(Alle, auch der Doktor, haben das Wort gehört und starren Robert
+entsetzt an.)_
+
++Frau Scholz+:} } Robert!!! +Auguste+: }
+
+~Dr.~ +Scholz+ _(unterdrückt eine Aufwallung von Jähzorn)_.
+
++Wilhelm+ _(macht in bleicher Wuth einige Schritte auf Robert zu.)_
+
++Frau Scholz+ _(stürzt sich ihm entgegen, umarmt ihn)_: Wilhelm! -- thu
+mir die einzige Liebe!
+
++Wilhelm+: Gut --! Mutter!
+
+_(Er geht, sich überwindend, erregt umher. In diesem Augenblick
+hebt der zweite Vers an. Kaum berühren die ersten Töne sein Ohr, so
+erzeugt sich in ihm ein Entschluß, in Folge dessen er auf die Thür des
+Seitengemaches zuschreitet.)_
+
+    Da liegt es, ach Kinder!
+    Auf Heu und auf Stroh;
+    Maria und Josef
+    Betrachten es froh,
+    Die redlichen Hirten
+    Knieen betend davor,
+    Hoch oben schwebt jubelnd
+    Der Englein Chor.
+
++Frau Scholz+ _(stellt sich ihm in den Weg)_: Wilhelm! -- was machst Du
+denn!
+
++Wilhelm+ _(ausbrechend)_: Sie sollen aufhören zu singen.
+
++Auguste+: Du bist wohl nicht bei Trost.
+
++Wilhelm+: Laßt mich zufrieden! ich sage sie sollen aufhören.
+
++Frau Scholz+: Aber sei doch .... Du bist ja wirklich .... na gutt,
+dann siehst Du mich diesen Abend nicht mehr.
+
++Robert+: Bleib doch Mutter! laß ihn doch machen! es ist ja seine
+Privatsache!
+
++Wilhelm+: Robert! treib’s nicht zu weit! nimm meinen Rath an! Du
+hast mir vorhin eine Rührscene vorgemacht, das macht Dich nur noch
+wiederwärtiger.
+
++Robert+: Sehr richtig: -- Rührscene. -- Bin selbst der Meinung .....
+
++Wilhelm+ _(geht abermals auf das Seitengemach zu.)_
+
++Frau Scholz+ _(ihn abermals aufhaltend.)_ O, Gottogottogott Junge,
+warum willst Du sie denn? .... _(der zweite Vers ist beendet)._
+
++Wilhelm+: Weil Ihr es Alle miteinander nicht werth seit.
+
++Robert+ _(dicht an Wilhelm herantretend, mit einem frechen,
+vielsagenden Blick in seine Augen)_: Du, vielleicht?
+
++Frau Scholz+: O, Jesis ne, Ihr treibt’s doch wieder so weit _(der
+dritte Vers hebt an)_.
+
+    Manch Hirtenkind trägt wohl
+    Mit heiterem Sinn
+    Milch, Butter und Honig
+    Nach Bethlehem hin,
+    Ein Körbchen voll Früchte
+    Das purpurroth glänzt,
+    Ein schneeweißes Lämmchen,
+    Mit Blumen bekränzt.
+
++Wilhelm+: Sie sollen aufhören!
+
++Frau Scholz+ _(ihn wiederum festhaltend)_: Junge!!!
+
++Wilhelm+: Einfach -- unter aller Würde. Es ist Blasphemie! es ist ein
+Verbrechen an diesen Menschen, wenn wir sie ...... ich .... ja auf Ehre
+ich werde schamroth für Euch alle!
+
++Auguste+ _(pikirt)_: Na -- so ganz besonders schlecht und verächtlich
+sind wir am Ende doch wohl auch nicht.
+
++Wilhelm+: Auguste -- mich ekelt’s!
+
++Auguste+: Mag’s doch! -- ja, ja; nu’ auf einmal ist man hinten
+runtergerutscht. Nu’ giebt’s auszusetzen an der Schwester an allen
+Ecken und Enden. Da is’ das nich’ recht, da is’ jen’s nich’ recht. Aber
+das Fräulein Ida .....
+
++Wilhelm+ _(außer sich, sie unterbrechend)_: Sprich nicht den Namen
+aus!!!
+
++Auguste+: Na, so ’was! ich werd’ wohl von Ida ....
+
++Wilhelm+: Laß den Namen aus dem Spiel, sag’ ich Dir.
+
++Auguste+: Du bist wohl verrückt geworden, ich werd’ doch ..... die is’
+doch wahrhaftig auch kein Engel vom Himmel.
+
++Wilhelm+ _(schreiend)_: Schweig’ still, sag’ ich!
+
++Auguste+ _(wendet ihm den Rücken)_: Ach, was denn, Du bist einfach
+verliebt.
+
++Wilhelm+ _(Auguste unsanft an der Schulter packend)_: Frauenzimmer,
+ich! .....
+
++Robert+ _(packt Wilhelms Arm, spricht kalt und jedes Wort betonend)_:
+Wilhelm! -- hast -- Du -- etwa -- wieder Absichten? ...........
+
++Wilhelm+: Teufel!
+
++Auguste+: Das sagst Du? -- pfui, Du!? der die Hand gegen seinen eignen
+Vater erhoben hat.
+
+~Dr.~ +Scholz+ _(mit zornbebender Stimme in absolut befehlendem Tone)_:
+Auguste! -- Du wirst Dich entfernen! -- augenblicklich!!
+
++Auguste+: Na -- ich möchte wissen ....
+
+~Dr.~ +Scholz+: Du wirst Dich augenblicklich entfernen!
+
++Frau Scholz+: O Du lieber Gott, warum nimmst Du mich denn nicht zu
+Dir! _(weinerlich)_ Auguste! Du hörst! -- folge dem Vater!
+
++Robert+: I, -- Mutter! das würd’ ich ihr denn doch sehr verdenken.
+Sie ist doch kein kleines Kind mehr. Die Zeiten haben sich doch
+wahrhaft’gen Gott sehr verändert.
+
+~Dr.~ +Scholz+: Aber, ich habe mich nicht verändert. Ich bin der Herr
+im Hause. Ich werde Euch das beweisen.
+
++Robert+: .... lachhaft!
+
+~Dr.~ +Scholz+ _(schreiend)_: Räu -- ber -- und -- Mör -- der --!!!
+-- -- -- ich -- -- -- -- -- enterbe Euch!!! ich werfe Euch auf die
+Straße!
+
++Robert+: Das ist ja direkt komisch.
+
+~Dr.~ +Scholz+: _(bemeistert einen furchtbaren Zornausbruch und spricht
+mit unheimlicher Ruhe und Festigkeit)_: Du, oder ich, einer von uns
+verläßt das Haus -- augenblicklich.
+
++Robert+: Ich natürlich -- mit Herzensfreude.
+
++Frau Scholz+ _(halb befehlend, halb bittend)_: Robert, Du bleibst!
+
+~Dr.~ +Scholz+: Er geht.
+
++Frau Scholz+: Fritz! hör’ mir zu! er ist der einzige ..... in den
+langen, einsamen Jahren hat er uns nicht vergessen, er .....
+
+~Dr.~ +Scholz+: Er, oder ich --!
+
++Frau Scholz+: Gieb nach, Fritz, thu’ mir die Liebe!
+
+~Dr.~ +Scholz+: Laß mich zufrieden! er, oder ich!
+
++Frau Scholz+: Ach, -- Ihr braucht ja meinswegen einander nicht
+begegnen, es geht ja ganz gut einzurichten ... aber ...
+
+~Dr.~ +Scholz+: Gut, ich weiche. -- Dir und Deiner Meute weiche ich! --
+Du und Deine Meute, Ihr habt von jeher den Sieg behalten!
+
++Wilhelm+: Bleib’, Vaterchen! oder wenn Du gehst, laß mich diesmal mit
+Dir gehen.
+
+~Dr.~ +Scholz+ _(unwillkürlich zurückfahrend, zwischen Zorn und
+Entsetzen)_: Laß mich zufrieden, -- Taugenichts! _(gedankenlos nach
+seinen Sachen suchend)_: Banditen und Tagediebe! -- Taugenichtse!
+
++Wilhelm+ _(aufwallend)_: Vater! -- so nennst Du uns ... und bist es
+doch gewesen, der uns .... Ach Väterchen nein, nein, das will ich ja
+garnicht sagen! laß mich mit Dir gehn, ich will bei Dir bleiben, laß
+mich Alles wieder gut machen, was ich _(er hat seine Hand auf des
+Vaters Arm gelegt.)_
+
+~Dr.~ +Scholz+ _(vor Schreck und Entsetzen wie gelähmt, retiriert)_:
+Laß los! ich sage Dir -- die Ränke der Verfolger werden zufällig .....
+werden zuverlässig -- zu Schanden werden. Sind das diese Leute, --
+diese Mächtigen, -- und diese mächtigen Menschen sind das Männer? einen
+Mann der, wie ich, einige Schuld hat, aber im Uebrigen dennoch ganz und
+gar -- und -- durch und durch -- und kurz und gut.
+
++Wilhelm+: Vater! Vater! Väterchen! komm zu Dir, komm doch zu Dir!
+
+~Dr.~ +Scholz+ _(sich im Rythmus der Worte bewegend, halblaut)_: Und
+kurz und gut und ... ganz und gar ....
+
++Wilhelm+: _(ihn umarmend, mit der instinctiven Absicht, seinen
+Actionsdrang zu hemmen)_: Faß Dich! nimm Dich zusammen!
+
+~Dr.~ +Scholz+ _(sich wehrend, wie ein kleines Kind flehend)_: Ach,
+schlag mich nicht! ach straf mich nicht!
+
++Wilhelm+: Aber um Gottes Himmels .....
+
+~Dr.~ +Scholz+: Nicht schlagen! nicht -- wieder -- schlagen! _(er macht
+krampfhafte Anstrengungen sich aus Wilhelms Umarmung zu befreien)._
+
++Wilhelm+: Abfaulen soll mir die Hand -- Väterchen glaub doch nicht,
+.... Väterchen denk doch nicht ......!
+
+~Dr.~ +Scholz+ _(hat sich befreit, flieht hülferufend von Wilhelm
+gefolgt)_.
+
++Wilhelm+: Schlag mich Du! schlag Du mich!
+
+~Dr.~ +Scholz+: Bitte, bitte, bitte, -- .... Hülfe.
+
++Ida+ _(aus der Thür des Seitengemaches, todtenbleich)_.
+
++Wilhelm+ _(ereilt den Vater, umarmt ihn auf’s neue)_:. Schlag Du mich
+....
+
+~Dr.~ +Scholz+ _(unter Wilhelms Umarmung auf einen Stuhl
+zusammenbrechend)_: Ich ... a ... ah! a -- ah! ... ich -- glaube -- es
+-- geht -- zu Ende -- mit -- mir.
+
++Wilhelm+: Vater!!!
+
+_(Frau Scholz und Auguste sind einander entsetzt in die Arme gesunken.
+Robert todtenbleich, hat sich nicht von der Stelle bewegt; sein Gesicht
+hat den Ausdruck unerschütterlicher Festigkeit.)_
+
+
+
+
+Dritter Vorgang.
+
+
+_Im Saale herrscht Halbdunkel. Die Lichter sind verlöscht bis auf
+einige auf dem Kronleuchter und ein einziges auf dem Christbaum. Vorn
+in der Nähe des Ofens am Tisch, den Rücken dem Nebenzimmer zugewendet,
+sitzt Wilhelm, die Ellbogen aufgestützt, sichtlich versunken in dumpfe,
+trostlose Grübelei. Robert und Frau Scholz betreten gleichzeitig die
+Halle, aus dem Nebenzimmer kommend._
+
++Frau Scholz+ _(Mit Zeichen der Erschöpfung, in gedämpftem Tone
+redend)_: Ne, Junge! -- mach ok nich Geschichten! Jetzt -- ma weeß nich
+hin, nich her. -- Wenn’s nu was Schweres is, was d’nn dann?
+
++Robert+: Du bist ja doch nicht allein, Mutter!
+
++Frau Scholz+: Aber sag mer nur! das kann doch nich Dein richt’ger
+Ernst sein! Das ist ja überspannt! Wo willst Du denn jetzt mitten in
+der Nacht blos hin?
+
++Robert+: Wenn’s weiter nichts is! alle Augenblicke gehen Züge -- und
+fort muß ich! -- Diesmal kann ich’s wirklich nicht mehr aushalten --
+überhaupt -- ’s ist für uns Alle das Beste!
+
++Frau Scholz+ _(weinerlich)_: ’S war immer so hibsch in den letzten
+Jahren. Ich sag schon -- nu missen die wieder kommen! Seit die Buchners
+hier sind, is’s wieder mal reen verdreht, Alles.
+
++Robert+: Sei froh, daß Du die hast, Mutter!
+
++Frau Scholz+: I, daß hätt’ ich ganz gutt selber machen können.
+
++Robert+: Ich denke, er leidet niemand von uns um sich --; Vater --?!
+
++Frau Scholz+ _(weinend)_: Accurat, als wenn ich ihm was Böses gethan
+hätte -- und dabei bin -- ich -- doch gewiß -- immer -- diejenige
+gewesen .... ich hab gewiß immer mei’ Bestes gethan -- sei mal gerecht,
+Robert! -- Ich hab ihm sein schönes Essen gekocht -- er hat seine
+warmen Strümpfe gehabt ....
+
++Robert+: Ach laß doch das, Mutter! -- was hilft das end--lose
+Lamentiren?!
+
++Frau Scholz+: Ja, das sagst Du! -- Du hast gut reden! -- aber wenn
+man sich abgerackert hat sei’ Leben lang -- man hat sich e’ Kopf
+zerbrochen, wie man’s und wie man’s blos recht macht -- und nu’ kommen
+fremde Menschen, und die werden vorgezogen!
+
++Robert+: Ida ist immer noch bei ihm?
+
++Frau Scholz+: Eine wildfremde Person -- ach ich möchte schon lieber
+garnicht mehr leben -- und dieser Lump! -- dieser Friebe! -- dieser
+Lump! -- wie der sich blos aufspielt! -- Gustel hat’s ihm aber
+gesteckt! -- Auguste hat ihm die Wahrheit aber ordentlich gesagt! --
+Dieser Kerl erdreistet sich -- er hat sie geradezu aus dem Zimmer
+hinausgedrängelt. Das Mädel war außer sich. -- Und das is nu seine
+Tochter .... ne ... wißt er Kinder: was ich in meinen Leben schon
+ausgestanden habe! -- ich mecht’s Keenem wünschen.
+
++Robert+ _(unwillkürlich, mit einem kleinen Seufzer)_: Vater auch!
+
++Frau Scholz+: Was --?
+
++Robert+: Nichts. -- Vater auch sagte ich nur.
+
++Frau Scholz+: Wie denn?
+
++Robert+: Na -- Vater hat doch auch manches ausgestanden.
+
++Frau Scholz+: Na meinswegen gewiß nich. Mich hat er nich sehr gemerkt.
+Ich bin gewiß anspruchslos.
+
++Robert+ _(skeptisch)_: -- ’tja! -- ’tja! -- ’tja!
+
++Frau Scholz+: Wart’ nur, wenn ich wer’ im Grabe liegen -- da werdt’er
+dann schon einsehen ..
+
++Robert+: Ach, Mutter, laß doch nur; -- das hab ich ja schon hundertmal
+gehört.
+
++Frau Scholz+: Mag’s doch! Ihr werd’t’s schon noch emal einsehen -- und
+paß uff -- in gar nich langer Zeit.
+
++Robert+: Ach Mutter, ich bestreite ja doch garnicht, daß Du mancherlei
+gelitten hast -- unter Vater -- Ihr habt eben Beide gelitten. Ich
+begreife garnicht, weshalb Du mir das ....
+
++Frau Scholz+: Dummes Gerede! -- was hat ihm denn gefehlt, möcht ich
+wissen?
+
++Robert+ _(unüberlegt)_: Wenn Du’s durchaus wissen willst: Verständniß!
+
++Frau Scholz+: Ich kann mich nicht klüger machen, wie ich bin.
+
++Robert+: Das hat ja auch kein Mensch verlangt. -- Ueberhaupt .... es
+ist ja überhaupt Unsinn noch viel davon zu reden.
+
++Frau Scholz+: Na nu hört’s ganz uff -- _(weinend)_ nu bin ich am Ende
+noch gar Schuld, daß er krank darnieder liegt, nu ....
+
++Robert+: Das sag ich ja gar nicht.
+
++Frau Scholz+: Das hast Du +wohl+ gesagt.
+
++Robert+: Ach Mutter ....! Ich gehe lieber -- ich .... Mutter, ich kann
+wirklich nicht mehr.
+
++Frau Scholz+: Nein! -- ich möchte wissen -- was ich mir vorzuwerfen
+hätte -- ich habe ein gutes Gewissen.
+
++Robert+: Das magst Du behalten das magst Du auch meinethalben in
+Gottes Namen behalten! -- _(abwehrend)_ bitte -- nicht mehr!
+
++Frau Scholz+: Die Geschichte mit dem Gelde meinst Du wohl?
+
++Robert+: Ich meine gar keine Geschichte.
+
++Frau Scholz+: Meine Eltern haben’s sauer verdient -- welche Frau wird
+sich das gefallen lassen? -- Dein Vater schmiß es geradezu zum Fenster
+naus.
+
++Robert+: Aber Dein Onkel betrog Dich drum.
+
++Frau Scholz+: Das konnte man nich wissen.
+
++Robert+: Und Vater war gut zum Wiederverdienen?!
+
++Frau Scholz+: Er hätte sich eben so gut verspeculiren können.
+
++Robert+: _(lacht bitter.)_
+
++Frau Scholz+: Ich bin eben ’ne einfache Seele -- der Vater war eben
+zu vornehm für mich. -- Seine Mutter hatte och so was Vornehmes. Aber
+mei’ Vater war früher bluttarm -- in mir steckt eben das Armuthsblutt!
+Ich kann mich nich anders machen. Na meinswejen -- die paar Jahre
+wird’s wohl noch gehen. Der liebe Gott wird mich schon bei Zeiten
+erlösen.
+
++Robert+: Von Gott erlöst sein möchte man lieber!
+
++Frau Scholz+: Pfui! das is e’ Hallunke, der das sagt. Ach --: von Gott
+erlöst sein -- da nähm’ ich mir ne Nadel und stäch mer se -- hier --
+in’s Herze -- in die Rippen. Wie scheußlich is das: von Gott erlöst
+sein! Wo wäre ich blos geblieben, wenn ich meinen Gott nich gehabt
+hätte. -- Willst Du d’nn wirklich fortgehn, Robert?
+
++Robert+ _(schon auf der Treppe)_: Ach schweig schon, Mutter! Ruhe
+brauch ich -- Ruhe. _(ab)_
+
++Frau Scholz+: Je ja! -- je ja, -- Ihr macht ein’n’s Leben nicht
+leicht! _(zu Wilhelm, der wie am Anfang noch immer antheillos am Tische
+brütet.)_ Nu denk’ Dir blos an --: Robert will fort!
+
++Wilhelm+: Meinethalben!
+
++Frau Scholz+: Sag mer nur --: wast sitzt Du denn immer so? das nutzt
+ja nischt, Du! -- sei doch nur vernünftig!
+
++Wilhelm+ _(seufzt tief auf)_: Ach, ja!
+
++Frau Scholz+: Das Seufzen nutzt gar nichts! sieh mich an! -- ich bin
+alt -- wenn ich mich hinsetzen wollte, wie Du .... Was geschehn ist,
+ist geschehn. -- Das ist nu mal nicht zu ändern. Hörst Du! lies was!
+-- steh auf, nimm Dir ’n Buch und zerstreu Dich!
+
++Wilhelm+ _(seufzt)_: Ach, Mutter! -- laß mich doch nur machen! -- ich
+störe ja doch Niemand! .... Ist Friebe vom Arzt zurück?
+
++Frau Scholz+: Nein, eben nicht. Ich sag ja schon, wenn man mal ’n Arzt
+nöthig hat, da is gewiß keiner zu finden.
+
++Wilhelm+: Es ist bedenklich, nicht? -- Ob es überhaupt noch mal werden
+wird?
+
++Frau Scholz+: Gott, ja! wer kann das wissen!
+
++Wilhelm+ _(starrt seine Mutter an, läßt plötzlich wild aufschluchzend
+die Stirn auf die Hände sinken)_.
+
++Frau Scholz+: Ja, ja, mein Junge --: wer hätte das gedacht?! ich will
+ja nicht sagen .... ich will ja Niemand die Schuld zuschieben -- aber
+zanken hättet Ihr Euch doch heute nich grade wieder brauchen -- na --
+ma muß eben’s Beste hoffen. -- Er phantasirt ja nu wenigstens nich
+mehr. -- Wenn Ida doch nur ja nichts versähe! -- unser eins hat doch
+hundertmal mehr Erfahrung. -- Warum kann er denn zu Ida freundlich
+sein!? -- Ich beiße doch och nich! .... Ida is ja sonst ’n sehr ’n
+liebes Mädel is sie ja wirklich. -- Und Du nu erst! _(ihm auf dem
+Scheitel klopfend)_ Du kannst den lieben Gott schon danken -- da
+kannst Du lange warten, bis Du wieder eine, wie Ida, findst! .......
+_(vorsichtig, vertraulich)_ .... Sag’ doch mal -- sind die Buchners --
+gut situirt?
+
++Wilhelm+ _(aufbrausend)_: Ach, laß mich zufrieden! -- wie soll ich das
+wissen! -- was geht das mich an!
+
++Frau Scholz+: Was is denn da weiter?! -- ma’ wird doch ’mal fragen
+können -- Brummbär Du!
+
++Wilhelm+: Ach, Mutter -- verschon’ mich! -- wenn Du eine Spur von
+Mitleid mit mir hast --: verschon’ mich! .... bekümmere Dich nicht um
+mich -- verschon’ mich!
+
++Frau Scholz+: Na ja doch, ja! -- ich bin Euch eben überall im Wege. --
+So ’ne alte Frau, die is höchstens noch gutt zum anranzen.
+
+_(Auguste und Frau Buchner hastig aus dem Nebenzimmer.)_
+
++Auguste+: Mutter!
+
++Frau Scholz+: O Gott! was denn?
+
++Auguste+: Friebe ist eben gekommen.
+
++Frau Buchner+: Friebe hat keinen Arzt mitgebracht.
+
++Auguste+: Der Vater hat ihn gefragt, und da hat er gesagt ....
+
++Frau Buchner+: Er will keinen Arzt!!
+
++Auguste+: Er schimpft so furchtbar -- er will ihn zur Thüre nauswerfen.
+
++Frau Buchner+: Friebe will nicht noch ’mal gehen.
+
++Auguste+: Sprich Du doch nur noch ’mal mit Friebe!
+
++Frau Buchner+: Ja, sprich Du mit ihm! es ist doch dringend nöthig, daß
+........
+
++Auguste+: Ein Arzt muß kommen -- sonst lauf’ ich selbst, ich fürchte
+mich nicht, und wenn ich bis Friedrichshagen laufen muß.
+
++Frau Scholz+: I warum nich gar! -- jetzt mitten in der Nacht -- wart’
+nur, wart’ -- laß mich nur machen! _(Frau Scholz, Frau Buchner und
+Auguste hastig zurück ins Nebenzimmer.)_
+
++Frau Buchner+ _(kaum verschwunden, erscheint wieder. Schon bevor sie
+abging, hat sie ihren Blick verstohlen und kummervoll mehrmals auf
+Wilhelm gerichtet, der immer noch stumm und düster auf seinem Platze
+verharrt. Ein Blick überzeugt Frau Buchner, daß, außer Wilhelm und ihr
+selbst, Niemand zugegen ist. Hastig zuerst, dann mehr zögernd, nähert
+sie sich Wilhelm.)_
+
++Wilhelm+ _(hat ihre Annäherung bemerkt, hebt den Kopf)_: Was w...
+wollen Sie? ich -- habe Ihnen -- ja doch -- Alles vorher gesagt.
+
++Frau Buchner+: Aber ich wollte es Ihnen nicht glauben. -- Ich konnte
+mir das nicht vorstellen.
+
++Wilhelm+: Und jetzt glauben -- Sie es?!
+
++Frau Buchner+: Ich -- weiß -- nicht ....
+
++Wilhelm+: Weshalb belügen Sie mich? -- sagen Sie doch -- getrost, --
+ja. -- Daß es so kommen mußte, war ja .... es war ja so lächerlich
+selbstverständlich. -- Wie habe ich mich nur so können verblenden
+lassen!
+
++Frau Buchner+ _(mit Fiebereifer)_: Wilhelm! ich halte Sie heute, wie
+damals, für einen guten und edlen Menschen. Ich versichere Sie: nicht
+einen Augenblick lang habe ich an Ihnen gezweifelt. Auch jetzt, wo mir
+auf einmal so angst und bange wird ....
+
++Wilhelm+ _(erhebt sich, holt tief Luft ein, wie Jemand der
+Beklemmungen fühlt)_: Es ist mir nur .... ich wußte es ja längst und
+doch ......
+
++Frau Buchner+: Ich komme zu Ihnen, Wilhelm! -- ich sage Ihnen offen
+.... es ist auf einmal so über mich gekommen. -- Ich sorge mich auf
+einmal so entsetzlich um Ida.
+
++Wilhelm+: Ich muß gestehen ...... nur gerade jetzt -- --
+
++Frau Buchner+: Ich weiß ja, Sie lieben das Kind. Es kann sie ja
+auch Niemand inniger lieben! -- Ich weiß, Sie werden mit allen
+Kräften streben, meine Tochter glücklich zu machen. An Ihrem Willen
+wird es nicht fehlen, aber nun .... nun habe ich so mancherlei
+.... nun habe ich so viel gesehen hier und -- erfahren. Da ist mir
+vieles ..... vieles von dem, was Sie mir früher gesagt haben, erst
+verständlich geworden. Ich verstand Sie nicht. Ich hielt Sie für
+einen Schwarzseher. Ich nahm Vieles gar nicht einmal Ernst. Mit einem
+festen, frohen Glauben kam ich hierher. Ich schäme mich förmlich.
+Was habe ich mir zugetraut! Solche Naturen wollte ich lenken, ich
+schwache, einfältige Person! -- Nun wankt Alles. Ich fühle auf einmal
+meine furchtbare Verantwortung: für mein Kind, für meine Ida bin ich
+doch verantwortlich. Jede Mutter ist doch verantwortlich für ihr
+Kind. Reden Sie mir zu, Wilhelm! sagen Sie mir, daß Alles noch gut
+werden wird! Sagen Sie mir: wir werden glücklich! --: Sie und Ida.
+Beweisen Sie mir, daß ich unnütz Furcht und Sorge habe, +Wilhelm+!
+...................
+
++Wilhelm+: Warum -- haben Sie’s -- soweit -- kommen lassen? -- Ich habe
+Sie gewarnt -- und gewarnt. Was habe ich Ihnen gesagt? ich habe gesagt:
+wir Alle .... wir Geschwister .... daß wir unheilbar kranken ..... vor
+allem ich .... daß wir an uns schleppen. -- Binden Sie Ihre Tochter
+nicht an einen Krüppel, -- habe ich Ihnen gesagt. -- Warum haben Sie
+mir nicht glauben wollen?
+
++Frau Buchner+: Ich weiß nicht. Ich weiß das selbst nicht.
+
++Wilhelm+: Nun haben Sie mich eingeschläfert, mein Gewissen
+beschwichtigt, -- und jetzt -- halb toll bin ich geworden vor Glück.
+-- Ich habe Augenblicke durchlebt -- durchkostet --! und auch andere
+wieder ...... Die furchtbarsten Kämpfe meines Lebens -- und nun --
+verlangen Sie .... nun man muß zusehen, -- vielleicht, ja vielleicht
+....
+
++Frau Buchner+: Wilhelm! ich verehre Sie! -- ich weiß, daß Sie am Ende
+doch jedes Opfer bringen. Aber Ida .... wenn es für sie zu spät ist
+.... wenn sie daran zu Grunde geht!
+
++Wilhelm+: Warum haben Sie mir denn nicht glauben wollen? -- Sie wissen
+nicht -- was mich das jetzt kostet. Stufe um Stufe mühsam gebaut habe
+ich mir -- ach, so mühsam! so mühsam! ... Dies Haus hier lag hinter
+mir. -- Gerettet war ich fast. -- Nun hat es mich wieder hereingerissen
+... Warum mußten Sie es nur so weit kommen lassen? warum ......
+
++Frau Buchner+ _(unter Thränen)_: Ich weiß nicht! ich weiß das selbst
+nicht! ich habe das Kind erzogen. Es ist mir Alles in Allem gewesen; an
+seinem Glück zu arbeiten ist auf der Welt mein’ einziger Beruf gewesen.
+-- Nun kamen -- Sie in unser Haus. -- Ich gewann Sie lieb. -- Ich
+dachte auch an Ihr Glück, ich ..... Das hätte ich vielleicht nicht thun
+sollen .... Ich dachte vielleicht eben so sehr an Ihr Glück -- und --
+wer weiß? -- am Ende -- zu -- allermeist -- an -- +Ihr+ Glück _(einen
+Augenblick lang starren Beide einander bestürzt in die Augen)_.
+
++Wilhelm+: Frau Buchner!!!
+
++Frau Buchner+ _(das Gesicht mit den Händen bedeckend, wie Jemand, der
+sich schämt, weinend ab durch den Treppenausgang)_.
+
++Wilhelm+ _(thut mechanisch ein paar Schritte hinter ihr drein, steht
+still, sucht seiner inneren Bewegung Herr zu werden, muß sich aber
+plötzlich, von Weinen geschüttelt, an der Wand stützen.)_
+
++Ida+ _(ihr Gesicht ist bleich, ihre Mienen drücken Ernst und Besorgniß
+aus. Sie tritt leisen Schrittes zu Wilhelm, umfaßt ihn und drückt ihre
+Wange an die seine)_: Ach, Willy! sieh’ ’mal: es kommen trübe und -- es
+kommen -- nicht, Willy? -- es kommen auch wieder helle Tage. Wer wird
+sich gleich so ..... so ganz und gar muthlos machen lassen.
+
++Wilhelm+ _(leidenschaftlich stammelnd)_: Ida! -- Einzige!! --
+Liebste!! -- Süße -- wie soll ich denn nur ..... wie sollt ich denn nur
+jetzt leben ohne Dich? -- Deine Stimme, Deine Worte, Dein ganzes süßes,
+wunderbares Wesen, Deine Hände ...... Deine milden, treuen Hände.
+
++Ida+: Denkst Du ich? -- Denkst Du ich möchte leben, ohne Dich? -- Nein
+Du! -- wir wollen uns umschlingen und nicht los lassen -- fest -- fest
+-- und so lange es so ist ......
+
++Wilhelm+: Ja, ja! -- aber -- wenn’s nun ’mal anders würde?
+
++Ida+: Ach, sprich nicht so!
+
++Wilhelm+: Ich meine ja nur .... man kann doch nie wissen ... Eins kann
+sterben ....
+
++Ida+: Ach, wir sind jung.
+
++Wilhelm+: Wenn auch. -- Einmal kommt’s doch auch -- alt werd’ ich so
+wie so nicht.
+
++Ida+ _(heiß)_: Dann umarm’ ich Dich -- dann drück’ ich mich an Dich --
+dann geh’ -- ich -- mit Dir.
+
++Wilhelm+: Ida! -- das sagt man so. -- Das thust Du doch nicht.
+
++Ida+: Das thue ich!
+
++Wilhelm+: Du denkst Dir das jetzt so -- Du weißt nicht wie schnell man
+vergißt.
+
++Ida+: Ich könnte nicht athmen ohne Dich!
+
++Wilhelm+: Das bildet man sich ein ....
+
++Ida+: Nein, nein, nein, Wilhelm! .....................
+
++Wilhelm+: So zu lieben -- wäre aber -- sogar eine Thorheit. Man wird
+doch nicht alles auf +eine+ Karte setzen.
+
++Ida+: Ich -- versteh’ Dich -- nicht ganz.
+
++Wilhelm+: Nur so .... ich .... sieh’ ’mal _(in ärgerlichem Tone)_.
+Ach, Du! -- das Thema ist unerquicklich! ...... wie geht es Vater?
+
++Ida+: Er schläft jetzt -- aber was hast Du denn nur?
+
++Wilhelm+ _(umhergehend)_: Das kommt so -- man weiß nicht wie.
+_(Plötzlich knirschend)_ -- Es giebt Momente, sag’ ich Dir ....! wenn
+einen die Wuth der Verzweiflung übermannt ..... in solchen Augenblicken
+kann ich mir denken .... in solchen Augenblicken kommt’s dazu, daß
+Menschen sich fünf Stock hoch -- den Kopf zuerst -- auf das Pflaster
+stürzen; -- förmlich wollüstig wird einem diese Vorstellung.
+
++Ida+: Gott behüte! -- Solchen Vorstellungen mußt Du nicht nachhängen,
+Willy!
+
++Wilhelm+: Warum denn nicht, möchte ich wissen? warum sollen Kerls,
+wie ich, zwischen Himmel und Erde herumschmarotzen? --: Nichtsnutzige
+Geschöpfe! -- Sich selbst ausmerzen -- das wäre doch noch was, -- dann
+hätte man doch +einmal+ etwas Nützliches gethan.
+
++Ida+: Es ist ja im Grunde nicht zu verwundern: -- Du bist überreizt
+und abgespannt ...
+
++Wilhelm+ _(in schroffen abweisenden Tone)_: Laß mich zufrieden Du, das
+verstehst Du nicht! _(über sich selbst erschrocken, verändert.)_ Ach,
+Du! -- Du mußt mir’s nicht übel nehmen. -- Geh’ doch lieber jetzt! Ich
+möchte Dich nicht verletzen. Und wie mir nun ’mal zu Muthe ist -- kann
+ich nicht -- einstehen für mich.
+
++Ida+ _(küßt Wilhelm stumm auf den Mund, dann ab in das Seitengemach)_.
+
++Wilhelm+: _(blickt ihr nach, geht, steht still, zeigt ein Gesicht voll
+Schrecken und Staunen und faßt sich an die Stirn, wie Jemand, der sich
+auf bösem Wege ertappt hat. Während dies geschieht, ist Robert durch
+den Treppenbogen eingetreten)_.
+
++Robert+ _(den Hut in der rechten Hand, über’m Arm den Ueberzieher und
+eine Reisedecke, in der Linken einen Plaidriemen, begiebt sich bis an
+den Tisch, wo er die Sachen ablegt)_.
+
++Wilhelm+ _(bemerkt ihn und sagt, nachdem er ihn eine Weile
+beobachtet)_: Wohin -- willst Du?
+
++Robert+: Fort.
+
++Wilhelm+: Jetzt?
+
++Robert+: Warum nicht? -- _(den Plaidriemen ausbreitend)_. Ich habe
+genug -- über und über sogar! -- Mutter wird künftig ..... wird künftig
+die Weihnachtstage -- ohne mich auskommen müssen -- _(nach dem Ofen
+umblickend)_. Es ist kalt hier.
+
++Wilhelm+: Draußen friert’s.
+
++Robert+ _(die Reisedecke rollend)_: So! -- um zehn thaute es doch.
+
++Wilhelm+: Es ist umgeschlagen.
+
++Robert+: Wie wird man nur den Berg ’runter kommen bei der Glätte?
+
++Wilhelm+: Der Mond scheint ja!
+
++Robert+: Wenn auch.
+
+..................
+
++Wilhelm+: Er phantasirt nicht mehr.
+
++Robert+: So, so!
+
+..................
+
++Wilhelm+: Er will keinen Arzt.
+
++Robert+: So, so!
+
+..................
+
++Wilhelm+: Es ist so plötzlich gekommen, man --
+
++Robert+: Hm -- ja, ja!
+
++Wilhelm+: Es muß doch in ihm gesteckt haben.
+
++Robert+: Natürlich -- sonst wäre er doch wohl nicht nach Hause
+gekommen .........
+
+..................
+
++Wilhelm+: Mir graut -- was daraus werden soll?!
+
++Robert+: Was soll man machen?!
+
+..................
+
++Wilhelm+: Meiner Seele -- ich weiß nicht, was ich anfange, -- wenn
+er einmal stirbt ..... Mit meinem Bewußtsein! mit dem, was ich jetzt
+erkannt habe! ..... ich wüßte wirklich nicht ..... und nun noch die
+Reue, die Gewissensbisse ..... ä! -- was da! -- was liegt schließlich
+daran?!
+
++Robert+: I, Du! -- da hätte man viel zu thun ..... der Alte ist ein
+Bischen anders -- na ja -- unsere Vorstellung stimmte nicht ganz.
+Gott, ja! aber das ändert doch nichts an der Sache.
+
++Wilhelm+: Ich sage Dir -- es ist mir heiliger Ernst -- mit Wollust
+würde ich heut verzichten, auf das ganze elende Bischen Leben, wenn es
+ihm zu Gute käme.
+
++Robert+ _(den Ueberrock anziehend)_: Das hat wenig Sinn Du -- meiner
+Ansicht nach -- Sieh mal, ich gehe jetzt in ein kleines, geheiztes
+Comptoirchen, setze mich mit dem Rücken an den Ofen -- kreuze die Beine
+unter dem Tisch -- zünde mir diese ..... selbe Pfeife hier an und
+schreibe -- in aller Gemüthsruhe hoffentlich, solche ..... na, Du weißt
+schon solche Scherze, ..... solche Reclamescherze: Afrikareisender
+..... nahe am Verschmachten, na ..... und da laß ich denn gewöhnlich
+eine Caravane kommen, die unsern Artikel führt. -- Mein Chef ist
+sehr zufrieden -- es geht durch den Inseratentheil aller möglichen
+Zeitungen; und was die Hauptsache ist --: Wenn ich da so sitze, siehst
+Du, und die Gasflamme den ganzen Tag so über mir fauchen höre -- von
+Zeit zu Zeit so’n Blick in den Hof -- so’n Fabrikhof ist nämlich was
+Wunderbares! -- was Romantisches, sag ich Dir! ..... mit einem Wort, da
+summt mich keine Hummel an.
+
++Wilhelm+: Dann lieber gleich todt sein.
+
++Robert+: Geschmacksache! -- Für mich ist es ein idealer Winkel
+geradezu; -- soll man sich denn immerfort aus dem Gleichgewicht bringen
+lassen, soll man sich denn kopfverwirrt machen lassen, -- ich werde
+so wie so zwei bis drei Tage gebrauchen um mich -- auf mein Bischen
+Lebensweisheit zu besinnen.
+
++Wilhelm+: Sag was Du willst: das nenn ich feig.
+
++Robert+: Na item, nenn es so. Früher oder später kommst Du doch
+auf meinen Standpunkt. Vater ist auch zuletzt auf diesen Standpunkt
+gekommen. Vater und Du, Ihr ähnelt einander zum verwechseln. Ihr seid
+dieselben Idealisten. Anno 48 hat Vater auf den Barrikaden angefangen,
+und als einsamer Hypochonder macht er den Schluß. -- Man muß sich an
+die Welt und an sich selbst +bei Zeiten+ gewöhnen, Du! -- eh man sich
+die Hörner abgelaufen hat.
+
++Wilhelm+: Oder aber an sich arbeiten, um anders zu werden.
+
++Robert+: Das sollte mir einfallen, ich bin, wie ich bin. Ich habe ein
+Recht so zu sein, wie ich bin.
+
++Wilhelm+: Dann fordere Dein Recht auch offen!
+
++Robert+: Ich werde mich hüten, denn ich will zu meinem Rechte
++kommen+. Die Moralphilister sind nun mal in der Mehrheit. -- Uebrigens
+ich muß nun doch gehen -- also .... und wenn ich Dir rathen soll, Du:
+nimm Dich vor den sogenannten guten Vorsätzen in Acht!
+
++Wilhelm+ _(kalt)_: Wie meinst Du denn das?
+
++Robert+: Ganz einfach: man muß nicht +Dinge+ leisten wollen, die man
+seiner ganzen Naturanlage nach nun mal nicht leisten kann.
+
++Wilhelm+: Zum Beispiel?
+
++Robert+: I! -- zu mir kommen zum Beispiel manchmal solche Kerls, die
+mir den Kopf wer weiß wie heiß machen, von Idealen schwatzen. Man
+müsse für die menschheitlichen Ideale kämpfen, was weiß ich! -- ich
+und für Andere kämpfen! fabelhafte Zumuthung! -- und für was und zu
+was denn? -- Na aber wie ich Dich kenne, Dich beunruhigt so was, Du
+würdest herumlaufen, wie einer der gestohlen hat: was bin ich für ein
+Jammerkerl! würdest Du Dir in einem fort sagen. Hab ich nicht Recht? na
+und dann käme schließlich der gute Vorsatz, und der drückt einen dann,
+das kenne ich. Ich bin auch früher mit hunderterlei solcher Vorsätze
+herumgelaufen. -- Jahrelang -- und das ist kein Vergnügen sag ich Dir!
+
++Wilhelm+: Ich weiß nicht recht, auf was Du hinaus willst?
+
++Robert+: Etwas Bestimmtes habe ich auch durchaus nicht im Auge: --
+die Unruhe -- an der Du jetzt laborirst -- hat ja auch noch andre
+Ursachen ...... Ich jedenfalls ..... wenn ich früher merkte .... in
+früheren Zeiten habe ich ja auch ähnliches durchgemacht -- aber sobald
+ich merkte, daß die Geschichte über meine Kräfte ging, habe ich ihr
+gewöhnlich kurz entschlossen den Rücken gewandt.
+
++Wilhelm+: Soll das ein Wink sein?
+
++Robert+: Wink? -- ich wüßte nicht ..... also nochmals -- laß Dir’s gut
+gehen und .....
+
++Wilhelm+: Sag mir doch mal Du -- rein objektiv -- es hat ein gewisses
+Interesse für mich .... es ist nur weil ....
+
++Robert+: Bitte, -- was wünschest Du zu hören?
+
++Wilhelm+: Du hast selbst vorhin etwas gesagt.
+
++Robert+: Wann, vorhin?
+
++Wilhelm+: Als wir über Vater sprachen.
+
++Robert+: Ach richtig, ja -- was soll ich denn da gesagt haben?
+
++Wilhelm+: Du sagtest, es würde vielleicht doch gut werden mit Ida und
+mir.
+
++Robert+: Ja so, -- Euer Verhältniß, -- das hätte ich gesagt. --?
+
++Wilhelm+: Das hast Du gesagt.
+
++Robert+: Nu ja, ich habe da +manches+ gesagt.
+
++Wilhelm+: Das heißt so viel, als -- Du bist von manchem, was Du da
+gesagt hast, zurückgekommen.
+
++Robert+: Ganz recht, das bin ich.
+
++Wilhelm+: Auch was die .... diese selbe Sache anbelangt ....?
+
++Robert+: Euer Verhältniß?
+
++Wilhelm+: Ja.
+
++Robert+: Ist Dir das denn wichtig?
+
++Wilhelm+: Ja, vielleicht.
+
++Robert+: Ja.
+
++Wilhelm+: Du bist also nicht mehr der Ansicht -- daß wir .....
+
++Robert+: Nein.
+
++Wilhelm+: Schön -- ich danke Dir -- Du bist offen -- ich danke Dir.
+-- Aber nehmen wir mal an -- setzen wir den Fall, ich kehre der ganzen
+Sache den Rücken -- sehen wir zunächst mal ganz davon ab, was das für
+mich bedeuten würde angenommen -- also, ich ginge auf der Stelle mit
+Dir -- was sollte dann -- aus Ida -- werden?
+
++Robert+: Hm -- Ida? -- Ida? _(zuckt die Achseln)_ hm ja, ja -- das
+läßt sich nicht so schnell .... das heißt -- besorgen würde mich das
+wirklich nicht so sehr.
+
++Wilhelm+: Du!!! das ist Deine alte Perfidie! das kenne ich.
+
++Robert+: Perfid? wieso denn? nein da täuschest Du Dich! um perfid zu
+sein ist mein Interesse doch nicht ausreichend -- mein Interesse an der
+Sache mein ich. Ich glaube wirklich nicht .....
+
++Wilhelm+: Das weiß ich besser, Du. Du wirst mich doch nicht dieses
+Mädchen kennen lehren wollen?! es ist nun mal so -- verlaß Dich darauf!
+sie hat nun mal ein Gefühl für mich, ich kann’s nicht ändern -- ich
+bilde mir nichts ein darauf. -- Was wird also aus ihr werden, wenn ich
+davon laufe?
+
++Robert+: Hm -- machst Du Dir also wirklich ernstlich darüber Gedanken?
+
++Wilhelm+: Allerdings -- ja -- allerdings.
+
++Robert+: Antworte mir doch gefälligst erst mal darauf: wenn Ihr Euch
+heirathet, was wird dann aus Ida?
+
++Wilhelm+: Das kann kein Mensch wissen.
+
++Robert+: O doch, Du! das weiß man --: Mutter.
+
++Wilhelm+: Als ob Ida mit Mutter zu vergleichen wäre.
+
++Robert+: Aber Du mit Vater.
+
++Wilhelm+: Jeder Mensch ist ein +neuer+ Mensch.
+
++Robert+: Das möchtest Du gern glauben. Laß gut sein! da verlangst
+Du zu viel von Dir. Die fleischgewordene Widerlegung bist Du ja doch
+selbst.
+
++Wilhelm+: Das möchte ich wissen.
+
++Robert+: I, das weißt Du sehr genau.
+
++Wilhelm+: Schließlich kann man sich darüber hinaus entwickeln.
+
++Robert+: Wenn man danach erzogen ist nämlich.
+
++Wilhelm+: Ach, es hat keinen Sinn weiter zureden.
+
++Robert+: Durchaus meine Ansicht.
+
++Wilhelm+: Das kann ja doch zu nichts führen _(ausbrechend, außer
+sich.)_ Ihr wollt mich zu Grunde richten! -- Ich bin das Opfer eines
+Complots! -- Ihr habt Euch gegen mich verschworen, Ihr wollt mich
+abthun! -- Ihr wollt mich endgültig abthun!
+
++Robert+: Das war Vaters zweites Wort.
+
++Wilhelm+: Das ist lächerlich, -- Deine Bemerkungen sind einfach
+lächerlich! -- Habe ich etwa nicht Grund, das zu sagen -- wollt Ihr
+mich etwa nicht von Ida trennen? Es ist ..... aufrichtig gesagt -- mir
+fehlen die Worte ..... Es liegt eine so fabelhafte Anmaßung .... eine
+Brutalität liegt darin -- über alle Begriffe geradezu! Mit Ida soll ich
+Mitleid haben! -- wer hat denn mit mir Mitleid, sag mal? nenn mir einen
+Menschen! -- wer denn?
+
++Robert+: Selbstverständlich! -- wenn Du so sprichst,
+selbstverständlich!
+
++Wilhelm+: Man verlangt Opfer von mir. -- Auf einmal soll ich die
+unsinnigsten Opfer bringen! Ich soll ....
+
++Robert+: Du kannst Dir jedes Wort getrost sparen. -- Unter solchen
+Verhältnissen selbstverständlich. -- Es ist Dein gutes Recht, das
+Mädchen fest zu halten.
+
++Wilhelm+: Unter solchen Verhältnissen? -- unter was für Verhältnisse?
+sag mir doch bitte!
+
++Robert+: Du sprachst von Ida -- vorhin -- meines Wissens ...
+
++Wilhelm+: Nun ja -- also was --?
+
++Robert+: Jetzt sprichst Du von Dir -- es kam so heraus -- na --
+mit einem Wort, wenn es Dir gleichgültig ist, was aus dem Mädchen
+wird -- wenn Du die nöthige Dosis .... nun sagen wir meinetwegen
+Rücksichtslosigkeit auf Lager hast .... wenn Du sie so nimmst .... so
+wie einen neuen Rock oder Hut oder so was ......
+
++Wilhelm+: Robert! -- so durch und durch herzlos, wie Du bist, -- Du
+hast doch diesmal Recht -- ich gehe mit Dir .... hier aus dem Hause --
+heißt das -- gehe ich mit Dir .... ein Stück -- nicht weit -- und nun
+.... nun .... bin ich fertig -- mit Euch Allen. -- Ja, ja, jetzt bin
+ich -- rede nicht erst! -- jetzt bin ich wirklich fertig -- ganz und
+gar .......
+
++Robert+ _(sieht ihn erstaunt an und zuckt dann mit den Achseln.)_
+
++Wilhelm+ _(mit steigender Heftigkeit)_: Du, Du! -- gieb Dir keine Mühe
+-- es gelingt Dir nicht -- mich kannst Du nicht täuschen mit Deiner
+harmlosen Ruhe. -- Recht hast Du allerdings, aber was Dich auf den
+rechten Gedanken gebracht hat, das sag ich Dir in’s Gesicht, das ist
+jämmerlicher Neid ..... das ist einfach tief klägliche Mißgunst! -- Du
+weißt sehr gut, daß ich ehrlich kämpfen würde, doch ihrer schließlich
+einigermaßen würdig zu werden. -- Du weißt sehr gut, wie dieses Mädchen
+mit ihrer Reinheit mich reinigt. Aber Du willst es nicht! Du willst
+mich nicht gereinigt wissen. -- Warum willst Du es nicht? -- nun weil
+.... weil Du selbst so bleiben mußt, wie Du bist ...... weil sie mich
+liebt und nicht Dich! -- Und deshalb hast Du mir diesen ganzen Abend
+mit Deinem Polizeiblick aufgelauert ..... hast mir immer und immer
+wieder zu erkennen gegeben, daß Du etwas von mir weißt -- ja wohl!
+Du hast ganz Recht! ich bin ein durch und durch lasterhafter Mensch.
+Nichts ist mehr rein an mir. Besudelt, wie ich bin gehöre ich nicht
+neben diese Unschuld, und ich bin auch entschlossen, kein Verbrechen zu
+begehen. Aber Du Robert! Du wirst dadurch nicht reiner; ein Glück für
+Dich, daß Du Dich nicht mehr schämen kannst!
+
++Robert+ _(hat während des letzten Drittels von Wilhelms Rede seine
+Sachen genommen und ist dem Ausgang zugeschritten. Die Klinke in der
+Hand bleibt er stehen, als ob er reden wollte, besinnt sich eines
+anderen, zuckt resignirt mit den Achseln und entfernt sich sehr ruhig.
+Ab.)_
+
++Wilhelm+ _(dem Davongegangenen nachrufend)_: Robert! -- Robert! --
+
++Ida+ _(aus dem Nebenzimmer eintretend)_: Wen rufst Du denn?
+
++Wilhelm+: Ach -- Du bist hier.
+
++Ida+: Der Arzt ist drin, Wilhelm -- er sagt -- es sei doch ernst, es
+....
+
++Stimme der Frau Scholz+ _(jammernd)_: Mein lieber guter Mann, ach!
+.... ach, mein lieber, guter Mann!
+
++Wilhelm+: Was habe ich gethan! was habe ich nun wieder gethan!
+
++Ida+: Es drückt mir das Herz ab. -- Ich möchte Dich gern -- nicht
+fragen, ich .... aber es muß etwas .... Du hast etwas Willy!
+
++Wilhelm+: Gar Nichts habe ich -- in die Einsamkeit möchte ich wieder
+-- dort ist unser Platz, Ida.
+
++Ida+: Weshalb --? ich verstehe garnicht.
+
++Wilhelm+ _(barsch und heftig)_: Ja, ja, ja! das ist ja die alte
+Leier --: ich versteh Dich nicht, ich versteh Dich nicht! -- Mutter
+und Vater haben auch ihr Leben lang verschiedene Sprachen gesprochen;
+Du verstehst mich nicht! Du kennst mich nicht! -- Du hast platte
+Backfischillusionen, und da habe ich nichts weiter zu thun, als mich
+zu verstecken vor Dir und zu verstecken -- bis ich ganz und gar zum
+elendesten Betrüger und Schurken werde.
+
++Ida+ _(hat Wilhelm bestürzt angeblickt, nun weint sie)_.
+
++Wilhelm+: Da siehst Du nun: dies ist mein wahres Gesicht. Und ich
+brauche nur einen Augenblick lang zu vergessen, was ich Dir gegenüber
+für eine Rolle spiele, da kommt es auch schon hervor. Du kannst mein
+wahres Gesicht nicht ertragen. Du weinst und Du würdest Jahre hindurch
+weinen, wenn ich nicht Mitleid mit Dir hätte. -- Nein, Ida, es darf
+zwischen uns nichts werden ..... ich bin zu dem festen Entschluß
+gekommen.
+
++Ida+ _(An seinen Hals fliegend)_: Das ist nicht wahr! -- das ist nun
+und nimmermehr wahr!
+
++Wilhelm+: Denk’ an das, was Du hier gesehen hast! sollen wir es von
+neuem gründen? -- sollen wir dieses selbe Haus von neuem gründen?
+
++Ida+: Es wird anders werden! es wird besser werden, Wilhelm.
+
++Wilhelm+: Wie kannst Du das sagen?
+
++Ida+: Das +fühle+ ich.
+
++Wilhelm+: Aber Du stürzst Dich blindlings in’s Verderben, Ida! ich
+reiße Dich in’s Verderben!
+
++Ida+: Ich habe keine Furcht, -- davor habe ich keine Furcht, Wilhelm!
+hab’ nur wieder Vertrauen! gieb’ mir nur wieder Deine Hand! Dann werd’
+ich Dir etwas sein können -- stoß mich nur nicht von Dir ........
+
++Wilhelm+: Gieb’ mich frei! -- zum ersten Mal liebst Du! -- Du liebst
+eine Illusion. Ich habe mich weggeworfen, wieder und wieder. Ich habe
+Dein Geschlecht in Andern geschändet. -- Ich bin ein Verworfener. --
+
++Ida+ _(jauchzend und weinend ihn umhalsend)_: Du bist +mein+! Du bist
++mein+!
+
++Wilhelm+: Ich bin Deiner nicht werth!
+
++Ida+: O sage das nicht! vor Dir bin ich klein, ach, wie klein! wie
+eine kleine, kleine Motte bin ich nur. Wilhelm, ich bin nichts ohne
+Dich! ich bin Alles durch Dich -- zieh’ Deine Hand -- nicht -- von mir
+-- armseligen -- Geschöpfe!
+
++Wilhelm+: Ida!!! -- ich Dir? Ida ich? ... _(umarmen und küssen sich
+unter Lachen und Weinen.)_ Ich soll meine Hand nicht von Dir ziehen? --
+Ja -- was -- sagst Du denn da -- was sagst Du -- denn nur -- da -- Du
+-- böse .....
+
++Ida+: Nun -- versprichst Du -- mir -- nun ...
+
++Wilhelm+: Ich schwöre Dir -- jetzt .... _(ein markdurchdringender
+Aufschrei aus dem Nebenzimmer schneidet die Rede ab. Betroffen und
+entsetzt starren Ida und Wilhelm einander in die Augen)_.
+
++Stimme der Frau Scholz+: Mein Mann -- stirbt ja! -- mein -- guter,
+lieber Mann -- stirbt ja doch -- mein Mann .... _(lautes Weinen)_.
+
++Wilhelm+: Gott! -- mein Gott -- was? -- Vater!!! Vater!!! _(will sich
+in’s Nebenzimmer stürzen; halbwegs kommt Ida ihm zuvor.)_
+
++Ida+: Wilhelm! -- komm’ zu Dir selbst! -- und -- geh’ nicht -- ohne
+mich!
+
+_(+Friebe+ kommt von Schluchzen geschüttelt aus dem Nebenzimmer und
+verschwindet in der Küche.)_
+
++Auguste+ _(folgt Friebe auf dem Fuße. Vor Wilhelm stehen bleibend,
+stößt sie mühsam hervor)_: Wer -- trägt nun -- die Schuld? -- wer? wer
+--? -- _(Sie bricht am Tisch zusammen, ein dumpfes und hohles Stöhnen
+entringt sich ihrer Brust. Das laute Weinen der Frau Scholz ist noch
+immer hörbar.)_
+
++Wilhelm+ _(will ausbrechen)_: Auguste!
+
++Ida+ _(an Wilhelm’s Brust beschwichtigend, mit bebenden Lauten)_:
+Wilhelm, -- ich glaube -- Dein Vater -- ist nicht mehr.
+
+_(Wilhelm will auf’s Neue ausbrechen, wird abermals durch Ida
+beschwichtigt, kämpft seinen Schmerz nieder, sucht und findet Ida’s
+Hand, die er krampfhaft in seiner drückt, und geht Hand in Hand mit dem
+Mädchen aufrecht und gefaßt auf das Nebengemach zu.)_
+
+[Illustration]
+
+
+Druck von +A. Klarbaum+, Berlin ~S.O.~
+
+*** END OF THE PROJECT GUTENBERG EBOOK DAS FRIEDENSFEST ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that:
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
+
+This website includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
